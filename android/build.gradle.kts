@@ -22,3 +22,14 @@ subprojects {
 tasks.register<Delete>("clean") {
     delete(rootProject.layout.buildDirectory)
 }
+
+// Workaround for arcore_flutter_plugin relying on old Kotlin version
+subprojects {
+    project.configurations.all {
+        resolutionStrategy.eachDependency {
+            if (requested.group == "org.jetbrains.kotlin" && requested.name == "kotlin-gradle-plugin") {
+                useVersion("1.7.10") // Or match the version used in settings.gradle.kts or a compatible one
+            }
+        }
+    }
+}

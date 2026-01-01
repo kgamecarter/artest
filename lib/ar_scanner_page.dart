@@ -84,8 +84,6 @@ class _ARScannerPageState extends State<ARScannerPage> {
     // ArCoreAugmentedImage has `trackingMethod` property.
     // TrackingMethod.FULL_TRACKING means it's visible/tracked.
 
-    // Note: The plugin source shows TrackingMethod.FULL_TRACKING
-
     bool isVisible = (image.trackingMethod == TrackingMethod.FULL_TRACKING);
 
     if (_isTargetVisible != isVisible) {
