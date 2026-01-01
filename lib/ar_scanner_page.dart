@@ -50,7 +50,7 @@ class _ARScannerPageState extends State<ARScannerPage> {
                 child: Container(
                   padding: EdgeInsets.all(16),
                   color: Colors.black54,
-                  child: Text(
+                  child: const Text(
                     "Scan the target image",
                     style: TextStyle(color: Colors.white, fontSize: 18),
                   ),
@@ -80,15 +80,13 @@ class _ARScannerPageState extends State<ARScannerPage> {
   }
 
   void _handleOnTrackingImage(ArCoreAugmentedImage image) {
-    // Determine visibility based on tracking state
-    // ArCoreAugmentedImage has a trackingState
-    // TrackingState.TRACKING means it's visible/tracked.
-    // TrackingState.PAUSED or STOPPED means lost.
+    // Determine visibility based on tracking method
+    // ArCoreAugmentedImage has `trackingMethod` property.
+    // TrackingMethod.FULL_TRACKING means it's visible/tracked.
 
-    // Note: The plugin returns an ArCoreAugmentedImage object.
-    // We need to check its status.
+    // Note: The plugin source shows TrackingMethod.FULL_TRACKING
 
-    bool isVisible = (image.trackingState == TrackingState.TRACKING);
+    bool isVisible = (image.trackingMethod == TrackingMethod.FULL_TRACKING);
 
     if (_isTargetVisible != isVisible) {
       setState(() {
