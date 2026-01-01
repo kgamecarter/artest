@@ -28,7 +28,16 @@ subprojects {
     project.configurations.all {
         resolutionStrategy.eachDependency {
             if (requested.group == "org.jetbrains.kotlin" && requested.name == "kotlin-gradle-plugin") {
-                useVersion("1.7.10") // Or match the version used in settings.gradle.kts or a compatible one
+                useVersion("1.7.10")
+            }
+        }
+    }
+
+    // Workaround for arcore_flutter_plugin missing namespace (required by AGP 8+)
+    afterEvaluate {
+        if ((project.plugins.hasPlugin("com.android.library") || project.plugins.hasPlugin("com.android.application")) && project.name == "arcore_flutter_plugin") {
+            configure<com.android.build.gradle.LibraryExtension> {
+                namespace = "com.difrancescogianmarco.arcore_flutter_plugin"
             }
         }
     }
