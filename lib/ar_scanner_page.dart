@@ -29,7 +29,7 @@ class _ARScannerPageState extends State<ARScannerPage> {
           ArCoreView(
             onArCoreViewCreated: _onArCoreViewCreated,
             type: ArCoreViewType.AUGMENTEDIMAGES,
-            debug: true,
+            debug: false,
           ),
 
           // 2. HUD Layer (3D Object)
