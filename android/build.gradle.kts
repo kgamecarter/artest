@@ -34,8 +34,8 @@ subprojects {
     }
 
     // Workaround for arcore_flutter_plugin missing namespace (required by AGP 8+)
-    afterEvaluate {
-        if ((project.plugins.hasPlugin("com.android.library") || project.plugins.hasPlugin("com.android.application")) && project.name == "arcore_flutter_plugin") {
+    project.plugins.withId("com.android.library") {
+        if (project.name == "arcore_flutter_plugin") {
             configure<com.android.build.gradle.LibraryExtension> {
                 namespace = "com.difrancescogianmarco.arcore_flutter_plugin"
             }
