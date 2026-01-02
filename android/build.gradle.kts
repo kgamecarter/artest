@@ -38,6 +38,7 @@ subprojects {
         if (project.name == "arcore_flutter_plugin") {
             configure<com.android.build.gradle.LibraryExtension> {
                 namespace = "com.difrancescogianmarco.arcore_flutter_plugin"
+                compileSdk = 34
             }
         }
     }
