@@ -4,9 +4,11 @@ packages:
   arcore_flutter_plugin:
     dependency: "direct main"
     description:
-      path: "plugins/arcore_flutter_plugin"
-      relative: true
-    source: path
+      path: "."
+      ref: main
+      resolved-ref: bd06b6b6083bd892697d45eead1ef97fef6dc78c
+      url: "https://github.com/kgamecarter/arcore_flutter_plugin.git"
+    source: git
     version: "0.1.1"
   async:
     dependency: transitive

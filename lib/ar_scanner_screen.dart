@@ -71,21 +71,21 @@ class _ARScannerScreenState extends State<ARScannerScreen> {
             ),
           ),
           // Debug button for manual testing since we can't use real camera in sim
-          if (true) // Keeping it for user to test if needed, or I can remove later
-            Positioned(
-              top: 50,
-              right: 20,
-              child: ElevatedButton(
-                onPressed: () {
-                  setState(() {
-                    isTargetFound = !isTargetFound;
-                    lastSeen = DateTime.now(); // Reset timeout to avoid immediate hide if we were to rely on it
-                    debugStatus = isTargetFound ? "Manual: Found" : "Manual: Lost";
-                  });
-                },
-                child: const Text("Toggle HUD (Debug)"),
-              ),
-            ),
+          // if (true) // Keeping it for user to test if needed, or I can remove later
+          //   Positioned(
+          //     top: 50,
+          //     right: 20,
+          //     child: ElevatedButton(
+          //       onPressed: () {
+          //         setState(() {
+          //           isTargetFound = !isTargetFound;
+          //           lastSeen = DateTime.now(); // Reset timeout to avoid immediate hide if we were to rely on it
+          //           debugStatus = isTargetFound ? "Manual: Found" : "Manual: Lost";
+          //         });
+          //       },
+          //       child: const Text("Toggle HUD (Debug)"),
+          //     ),
+          //   ),
         ],
       ),
     );
