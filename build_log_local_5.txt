@@ -1,0 +1,1577 @@
+[  +99 ms] executing: uname -m
+[   +9 ms] Exit code 0 from: uname -m
+[        ] x86_64
+[  +13 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +2 ms] executing: [/home/jules/flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[  +11 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2025-12-11 11:50:07 -0500
+[  +88 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +4 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[ +100 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +3 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[ +146 ms] Skipping pub get: version match.
+[ +317 ms] Found plugin permission_handler at /home/jules/.pub-cache/hosted/pub.dev/permission_handler-11.4.0/
+[   +9 ms] Found plugin permission_handler_windows at /home/jules/.pub-cache/hosted/pub.dev/permission_handler_windows-0.2.1/
+[  +13 ms] Found plugin permission_handler_html at /home/jules/.pub-cache/hosted/pub.dev/permission_handler_html-0.1.3+5/
+[  +12 ms] Found plugin permission_handler_apple at /home/jules/.pub-cache/hosted/pub.dev/permission_handler_apple-9.4.7/
+[   +5 ms] Found plugin permission_handler_android at /home/jules/.pub-cache/hosted/pub.dev/permission_handler_android-12.1.0/
+[  +17 ms] Found plugin arcore_flutter_plugin at /app/plugins/arcore_flutter_plugin/
+[ +153 ms] Found plugin permission_handler at /home/jules/.pub-cache/hosted/pub.dev/permission_handler-11.4.0/
+[   +2 ms] Found plugin permission_handler_windows at /home/jules/.pub-cache/hosted/pub.dev/permission_handler_windows-0.2.1/
+[   +7 ms] Found plugin permission_handler_html at /home/jules/.pub-cache/hosted/pub.dev/permission_handler_html-0.1.3+5/
+[   +5 ms] Found plugin permission_handler_apple at /home/jules/.pub-cache/hosted/pub.dev/permission_handler_apple-9.4.7/
+[   +2 ms] Found plugin permission_handler_android at /home/jules/.pub-cache/hosted/pub.dev/permission_handler_android-12.1.0/
+[   +5 ms] Found plugin arcore_flutter_plugin at /app/plugins/arcore_flutter_plugin/
+[  +16 ms] Generating /app/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+[  +17 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[ +167 ms] Top-level Gradle build file not found, skipping migration of task "clean".
+[   +1 ms] Android Studio version could not be detected, skipping Gradle-Java version compatibility check.
+[  +27 ms] CMake project not found, skipping support Android 15 16k page size migration.
+[   +5 ms] Using gradle from /app/android/gradlew.
+[  +32 ms] LocalFile: '/app/android/build.gradle.kts' doesn't provide an AGP version. Checking settings.
+[   +2 ms] LocalFile: '/app/android/settings.gradle.kts' provides AGP version: 8.11.1
+[   +7 ms] Running Gradle task 'assembleRelease'...
+[   +2 ms] executing: [/app/android/] /app/android/gradlew --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib/main.dart -Pbase-application-name=android.app.Application -Pdart-defines=RkxVVFRFUl9WRVJTSU9OPTMuMzguNQ==,RkxVVFRFUl9DSEFOTkVMPXN0YWJsZQ==,RkxVVFRFUl9HSVRfVVJMPWh0dHBzOi8vZ2l0aHViLmNvbS9mbHV0dGVyL2ZsdXR0ZXIuZ2l0,RkxVVFRFUl9GUkFNRVdPUktfUkVWSVNJT049ZjZmZjE1MjlmZA==,RkxVVFRFUl9FTkdJTkVfUkVWSVNJT049MTUyN2FlMGVjNQ==,RkxVVFRFUl9EQVJUX1ZFUlNJT049My4xMC40 -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=true assembleRelease
+[+1100 ms] Initialized native services in: /home/jules/.gradle/native
+[   +1 ms] Initialized jansi services in: /home/jules/.gradle/native
+[ +676 ms] The client will now receive all logging from the daemon (pid: 6679). The daemon log file: /home/jules/.gradle/daemon/8.14/daemon-6679.out.log
+[   +5 ms] Starting 6th build in daemon [uptime: 36 mins 42.02 secs, performance: 98%, GC rate: 0.00/s, heap usage: 0% of 8 GiB, non-heap usage: 10% of 4 GiB]
+[  +42 ms] Using 4 worker leases.
+[ +102 ms] Not watching /app/android since the file system is not supported
+[        ] Watching the file system is configured to be enabled if available
+[        ] File system watching is active
+[        ] Starting Build
+[ +188 ms] Not watching /home/jules/flutter/packages/flutter_tools/gradle since the file system is not supported
+[ +908 ms] > Configure project :gradle
+[        ] Evaluating project ':gradle' using build file '/home/jules/flutter/packages/flutter_tools/gradle/build.gradle.kts'.
+[   +3 ms] Resolved plugin [id: 'org.gradle.java-gradle-plugin']
+[   +4 ms] Resolved plugin [id: 'org.gradle.groovy']
+[   +1 ms] Resolved plugin [id: 'org.gradle.kotlin.kotlin-dsl', version: '5.2.0']
+[        ] Resolved plugin [id: 'org.jetbrains.kotlin.jvm', version: '1.9.20']
+[        ] Using Kotlin Gradle Plugin gradle85 variant
+[        ] kotlin scripting plugin: created the scripting discovery configuration: kotlinScriptDef
+[        ] kotlin scripting plugin: created the scripting discovery configuration: testKotlinScriptDef
+[        ] file or directory '/home/jules/flutter/packages/flutter_tools/gradle/src/main/java', not found
+[        ] Resolved plugin [id: 'dev.flutter.flutter-plugin-loader', version: '1.0.0']
+[        ] Resolved plugin [id: 'com.android.application', version: '8.11.1', apply: false]
+[  +11 ms] Resolved plugin [id: 'org.jetbrains.kotlin.android', version: '2.2.20', apply: false]
+[  +77 ms] Resolve mutations for :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[#649,Execution worker,5,main]) started.
+[   +7 ms] :gradle:checkKotlinGradlePluginConfigurationErrors (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :gradle:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task ':gradle:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 'errorDiagnostics are present' is false.
+[        ] Resolve mutations for :gradle:compileKotlin (Thread[#649,Execution worker,5,main]) started.
+[        ] :gradle:compileKotlin (Thread[#649,Execution worker,5,main]) started.
+[ +191 ms] > Task :gradle:compileKotlin UP-TO-DATE
+[        ] Caching disabled for task ':gradle:compileKotlin' because:
+[        ]   Build cache is disabled
+[   +1 ms] Skipping task ':gradle:compileKotlin' as it is up-to-date.
+[        ] Resolve mutations for :gradle:compileJava (Thread[#649,Execution worker,5,main]) started.
+[        ] :gradle:compileJava (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :gradle:compileJava NO-SOURCE
+[        ] Skipping task ':gradle:compileJava' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:compileGroovy (Thread[#649,Execution worker,5,main]) started.
+[        ] :gradle:compileGroovy (Thread[#649,Execution worker,5,main]) started.
+[   +1 ms] > Task :gradle:compileGroovy NO-SOURCE
+[        ] Skipping task ':gradle:compileGroovy' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:pluginDescriptors (Thread[#649,Execution worker,5,main]) started.
+[        ] :gradle:pluginDescriptors (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :gradle:pluginDescriptors UP-TO-DATE
+[        ] Caching disabled for task ':gradle:pluginDescriptors' because:
+[   +2 ms]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Skipping task ':gradle:pluginDescriptors' as it is up-to-date.
+[        ] Resolve mutations for :gradle:processResources (Thread[#649,Execution worker,5,main]) started.
+[        ] :gradle:processResources (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :gradle:processResources UP-TO-DATE
+[        ] Caching disabled for task ':gradle:processResources' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[   +2 ms] Skipping task ':gradle:processResources' as it is up-to-date.
+[        ] Resolve mutations for :gradle:classes (Thread[#649,Execution worker,5,main]) started.
+[        ] :gradle:classes (Thread[#651,Execution worker Thread 3,5,main]) started.
+[   +1 ms] > Task :gradle:classes UP-TO-DATE
+[        ] Skipping task ':gradle:classes' as it has no actions.
+[        ] Resolve mutations for :gradle:jar (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :gradle:jar (Thread[#651,Execution worker Thread 3,5,main]) started.
+[  +83 ms] > Task :gradle:jar UP-TO-DATE
+[        ] Caching disabled for task ':gradle:jar' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Skipping task ':gradle:jar' as it is up-to-date.
+[ +502 ms] Settings evaluated using settings file '/app/android/settings.gradle.kts'.
+[ +100 ms] Projects loaded. Root project using build file '/app/android/build.gradle.kts'.
+[   +1 ms] Included projects: [root project 'android', project ':app', project ':arcore_flutter_plugin', project ':permission_handler_android']
+[ +892 ms] > Configure project :app
+[        ] Evaluating project ':app' using build file '/app/android/app/build.gradle.kts'.
+[        ] Resolved plugin [id: 'com.android.application']
+[        ] Resolved plugin [id: 'kotlin-android']
+[        ] Resolved plugin [id: 'dev.flutter.flutter-gradle-plugin']
+[        ] Using default execution profile
+[        ] Build c943f282-b0b8-4193-b92e-90f120ad840c is started
+[        ] Using Kotlin Gradle Plugin gradle813 variant
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[   +2 ms] C/C++: ndk.dir in local.properties is not set
+[   +2 ms] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[  +13 ms] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[   +4 ms] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[   +8 ms] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] C/C++: android.ndkVersion from module build.gradle is [28.2.13676358]
+[        ] C/C++: android.ndkPath from module build.gradle is not set
+[        ] C/C++: ndk.dir in local.properties is not set
+[        ] C/C++: Not considering ANDROID_NDK_HOME because support was removed after deprecation period.
+[        ] C/C++: sdkFolder is /home/jules/android-sdk
+[        ] > Configure project :
+[        ] Evaluating root project 'android' using build file '/app/android/build.gradle.kts'.
+[ +752 ms] > Configure project :arcore_flutter_plugin
+[        ] Evaluating project ':arcore_flutter_plugin' using build file '/app/plugins/arcore_flutter_plugin/android/build.gradle'.
+[        ] Using default execution profile
+[        ] Using Kotlin Gradle Plugin gradle813 variant
+[ +499 ms] > Configure project :permission_handler_android
+[        ] Evaluating project ':permission_handler_android' using build file '/home/jules/.pub-cache/hosted/pub.dev/permission_handler_android-12.1.0/android/build.gradle'.
+[        ] Using default execution profile
+[        ] All projects evaluated.
+[        ] Task name matched 'assembleRelease'
+[        ] Selected primary task 'assembleRelease' from project :
+[ +906 ms] Tasks to be executed: [task ':app:ReleaseMinSdkCheck', task ':app:compileFlutterBuildRelease', task ':app:packJniLibsflutterBuildRelease', task ':app:preBuild', task ':app:preReleaseBuild', task ':app:configureCMakeRelease[arm64-v8a]', task ':app:buildCMakeRelease[arm64-v8a]', task ':app:configureCMakeRelease[armeabi-v7a]', task ':app:buildCMakeRelease[armeabi-v7a]', task ':app:configureCMakeRelease[x86_64]', task ':app:buildCMakeRelease[x86_64]', task ':app:mergeReleaseJniLibFolders', task ':arcore_flutter_plugin:preBuild', task ':arcore_flutter_plugin:preReleaseBuild', task ':arcore_flutter_plugin:mergeReleaseJniLibFolders', task ':arcore_flutter_plugin:mergeReleaseNativeLibs', task ':arcore_flutter_plugin:copyReleaseJniLibsProjectOnly', task ':permission_handler_android:preBuild', task ':permission_handler_android:preReleaseBuild', task ':permission_handler_android:mergeReleaseJniLibFolders', task ':permission_handler_android:mergeReleaseNativeLibs', task ':permission_handler_android:copyReleaseJniLibsProjectOnly', task ':app:mergeReleaseNativeLibs', task ':app:stripReleaseDebugSymbols', task ':app:extractReleaseNativeSymbolTables', task ':app:mergeReleaseNativeDebugMetadata', task ':arcore_flutter_plugin:checkKotlinGradlePluginConfigurationErrors', task ':arcore_flutter_plugin:generateReleaseResValues', task ':arcore_flutter_plugin:generateReleaseResources', task ':arcore_flutter_plugin:packageReleaseResources', task ':arcore_flutter_plugin:parseReleaseLocalResources', task ':arcore_flutter_plugin:generateReleaseRFile', task ':arcore_flutter_plugin:compileReleaseKotlin', task ':arcore_flutter_plugin:javaPreCompileRelease', task ':arcore_flutter_plugin:compileReleaseJavaWithJavac', task ':arcore_flutter_plugin:mergeReleaseGeneratedProguardFiles', task ':arcore_flutter_plugin:exportReleaseConsumerProguardFiles', task ':permission_handler_android:generateReleaseResValues', task ':permission_handler_android:generateReleaseResources', task ':permission_handler_android:packageReleaseResources', task ':permission_handler_android:parseReleaseLocalResources', task ':permission_handler_android:generateReleaseRFile', task ':permission_handler_android:javaPreCompileRelease', task ':permission_handler_android:compileReleaseJavaWithJavac', task ':permission_handler_android:mergeReleaseGeneratedProguardFiles', task ':permission_handler_android:exportReleaseConsumerProguardFiles', task ':app:buildKotlinToolingMetadata', task ':app:checkReleaseDuplicateClasses', task ':app:checkKotlinGradlePluginConfigurationErrors', task ':arcore_flutter_plugin:writeReleaseAarMetadata', task ':permission_handler_android:writeReleaseAarMetadata', task ':app:checkReleaseAarMetadata', task ':app:cleanMergeReleaseAssets', task ':app:mergeReleaseShaders', task ':app:compileReleaseShaders', task ':app:generateReleaseAssets', task ':arcore_flutter_plugin:mergeReleaseShaders', task ':arcore_flutter_plugin:compileReleaseShaders', task ':arcore_flutter_plugin:generateReleaseAssets', task ':arcore_flutter_plugin:mergeReleaseAssets', task ':permission_handler_android:mergeReleaseShaders', task ':permission_handler_android:compileReleaseShaders', task ':permission_handler_android:generateReleaseAssets', task ':permission_handler_android:mergeReleaseAssets', task ':app:mergeReleaseAssets', task ':app:copyFlutterAssetsRelease', task ':app:generateReleaseResValues', task ':app:mapReleaseSourceSetPaths', task ':app:generateReleaseResources', task ':app:mergeReleaseResources', task ':app:packageReleaseResources', task ':app:parseReleaseLocalResources', task ':app:createReleaseCompatibleScreenManifests', task ':app:extractDeepLinksRelease', task ':arcore_flutter_plugin:extractDeepLinksRelease', task ':arcore_flutter_plugin:processReleaseManifest', task ':permission_handler_android:extractDeepLinksRelease', task ':permission_handler_android:processReleaseManifest', task ':app:processReleaseMainManifest', task ':app:outputReleaseAppLinkSettings', task ':app:processReleaseManifest', task ':app:processReleaseManifestForPackage', task ':app:processReleaseResources', task ':arcore_flutter_plugin:bundleLibCompileToJarRelease', task ':permission_handler_android:bundleLibCompileToJarRelease', task ':app:compileReleaseKotlin', task ':app:javaPreCompileRelease', task ':app:compileReleaseJavaWithJavac', task ':arcore_flutter_plugin:prepareReleaseArtProfile', task ':permission_handler_android:prepareReleaseArtProfile', task ':app:mergeReleaseArtProfile', task ':arcore_flutter_plugin:bundleLibRuntimeToJarRelease', task ':permission_handler_android:bundleLibRuntimeToJarRelease', task ':app:expandReleaseArtProfileWildcards', task ':app:extractProguardFiles', task ':app:mergeReleaseGeneratedProguardFiles', task ':app:processReleaseJavaRes', task ':arcore_flutter_plugin:processReleaseJavaRes', task ':permission_handler_android:processReleaseJavaRes', task ':app:mergeReleaseJavaResource', task ':app:mergeReleaseStartupProfile', task ':app:minifyReleaseWithR8', task ':app:compileReleaseArtProfile', task ':app:compressReleaseAssets', task ':app:extractReleaseVersionControlInfo', task ':arcore_flutter_plugin:createFullJarRelease', task ':arcore_flutter_plugin:extractProguardFiles', task ':arcore_flutter_plugin:generateReleaseLintModel', task ':arcore_flutter_plugin:prepareLintJarForPublish', task ':permission_handler_android:createFullJarRelease', task ':permission_handler_android:extractProguardFiles', task ':permission_handler_android:generateReleaseLintModel', task ':permission_handler_android:prepareLintJarForPublish', task ':app:generateReleaseLintVitalReportModel', task ':arcore_flutter_plugin:stripReleaseDebugSymbols', task ':arcore_flutter_plugin:copyReleaseJniLibsProjectAndLocalJars', task ':arcore_flutter_plugin:extractDeepLinksForAarRelease', task ':arcore_flutter_plugin:extractReleaseAnnotations', task ':arcore_flutter_plugin:mergeReleaseConsumerProguardFiles', task ':arcore_flutter_plugin:mergeReleaseJavaResource', task ':arcore_flutter_plugin:syncReleaseLibJars', task ':arcore_flutter_plugin:bundleReleaseLocalLintAar', task ':permission_handler_android:stripReleaseDebugSymbols', task ':permission_handler_android:copyReleaseJniLibsProjectAndLocalJars', task ':permission_handler_android:extractDeepLinksForAarRelease', task ':permission_handler_android:extractReleaseAnnotations', task ':permission_handler_android:mergeReleaseConsumerProguardFiles', task ':permission_handler_android:mergeReleaseJavaResource', task ':permission_handler_android:syncReleaseLibJars', task ':permission_handler_android:bundleReleaseLocalLintAar', task ':arcore_flutter_plugin:lintVitalAnalyzeRelease', task ':arcore_flutter_plugin:writeReleaseLintModelMetadata', task ':permission_handler_android:lintVitalAnalyzeRelease', task ':permission_handler_android:writeReleaseLintModelMetadata', task ':app:lintVitalAnalyzeRelease', task ':arcore_flutter_plugin:generateReleaseLintVitalModel', task ':permission_handler_android:generateReleaseLintVitalModel', task ':app:lintVitalReportRelease', task ':app:lintVitalRelease', task ':app:convertShrunkResourcesToBinaryRelease', task ':app:optimizeReleaseResources', task ':app:collectReleaseDependencies', task ':app:sdkReleaseDependencyData', task ':app:validateSigningRelease', task ':app:writeReleaseAppMetadata', task ':app:writeReleaseSigningConfigVersions', task ':app:packageRelease', task ':app:createReleaseApkListingFileRedirect', task ':app:assembleRelease', task ':arcore_flutter_plugin:bundleReleaseAar', task ':arcore_flutter_plugin:mapReleaseSourceSetPaths', task ':arcore_flutter_plugin:mergeReleaseResources', task ':arcore_flutter_plugin:verifyReleaseResources', task ':arcore_flutter_plugin:assembleRelease', task ':permission_handler_android:bundleReleaseAar', task ':permission_handler_android:mapReleaseSourceSetPaths', task ':permission_handler_android:mergeReleaseResources', task ':permission_handler_android:verifyReleaseResources', task ':permission_handler_android:assembleRelease']
+[   +1 ms] Tasks that were excluded: []
+[        ] work action Parameters of FilterShrinkerRulesTransform (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] work action Parameters of ExtractAarTransform (Thread[#648,included builds,5,main]) started.
+[   +2 ms] Resolve mutations for :app:ReleaseMinSdkCheck (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:ReleaseMinSdkCheck (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :app:ReleaseMinSdkCheck
+[        ] Caching disabled for task ':app:ReleaseMinSdkCheck' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:ReleaseMinSdkCheck' is not up-to-date because:
+[        ]   Task has not declared any outputs despite executing actions.
+[        ] Resolve mutations for :app:compileFlutterBuildRelease (Thread[#648,included builds,5,main]) started.
+[        ] :app:compileFlutterBuildRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[ +183 ms] > Task :app:compileFlutterBuildRelease UP-TO-DATE
+[   +1 ms] Caching disabled for task ':app:compileFlutterBuildRelease' because:
+[        ]   Build cache is disabled
+[        ]   Caching has not been enabled for the task
+[        ] Skipping task ':app:compileFlutterBuildRelease' as it is up-to-date.
+[        ] Resolve mutations for :app:packJniLibsflutterBuildRelease (Thread[#648,included builds,5,main]) started.
+[        ] :app:packJniLibsflutterBuildRelease (Thread[#649,Execution worker,5,main]) started.
+[  +99 ms] > Task :app:packJniLibsflutterBuildRelease UP-TO-DATE
+[  +11 ms] Caching disabled for task ':app:packJniLibsflutterBuildRelease' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[        ] Skipping task ':app:packJniLibsflutterBuildRelease' as it is up-to-date.
+[        ] Resolve mutations for :app:preBuild (Thread[#648,included builds,5,main]) started.
+[        ] :app:preBuild (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:preBuild UP-TO-DATE
+[        ] Skipping task ':app:preBuild' as it has no actions.
+[        ] Resolve mutations for :app:preReleaseBuild (Thread[#648,included builds,5,main]) started.
+[        ] :app:preReleaseBuild (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:preReleaseBuild UP-TO-DATE
+[        ] Skipping task ':app:preReleaseBuild' as it has no actions.
+[        ] Resolve mutations for :app:configureCMakeRelease[arm64-v8a] (Thread[#648,included builds,5,main]) started.
+[   +5 ms] :app:configureCMakeRelease[arm64-v8a] (Thread[#648,included builds,5,main]) started.
+[   +1 ms] > Task :app:configureCMakeRelease[arm64-v8a]
+[        ] Caching disabled for task ':app:configureCMakeRelease[arm64-v8a]' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:configureCMakeRelease[arm64-v8a]' is not up-to-date because:
+[   +5 ms]   Task.upToDateWhen is false.
+[        ] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|arm64-v8a : Start JSON generation. Platform version: 24 min SDK version: arm64-v8a
+[        ] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|arm64-v8a : JSON '/app/build/.cxx/release/g651xl1z/arm64-v8a/android_gradle_build.json' was up-to-date
+[        ] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|arm64-v8a : JSON generation completed without problems
+[        ] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|arm64-v8a : Writing build model to /app/build/app/intermediates/cxx/release/g651xl1z/logs/arm64-v8a/build_model.json
+[        ] Resolve mutations for :app:buildCMakeRelease[arm64-v8a] (Thread[#648,included builds,5,main]) started.
+[        ] :app:buildCMakeRelease[arm64-v8a] (Thread[#648,included builds,5,main]) started.
+[  +74 ms] > Task :app:buildCMakeRelease[arm64-v8a]
+[        ] Caching disabled for task ':app:buildCMakeRelease[arm64-v8a]' because:
+[        ]   Build cache is disabled
+[   +1 ms]   Caching has been disabled for the task
+[        ] Task ':app:buildCMakeRelease[arm64-v8a]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: starting build
+[        ] C/C++: reading expected JSONs
+[        ] C/C++: done reading expected JSONs
+[        ] C/C++: executing build commands for targets that produce .so files or executables
+[        ] C/C++: evaluate miniconfig
+[        ] C/C++: no libraries
+[   +3 ms] Resolve mutations for :app:configureCMakeRelease[armeabi-v7a] (Thread[#648,included builds,5,main]) started.
+[   +2 ms] :app:configureCMakeRelease[armeabi-v7a] (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +7 ms] > Task :app:configureCMakeRelease[armeabi-v7a]
+[   +6 ms] Caching disabled for task ':app:configureCMakeRelease[armeabi-v7a]' because:
+[   +1 ms]   Build cache is disabled
+[   +1 ms]   Caching has been disabled for the task
+[        ] Task ':app:configureCMakeRelease[armeabi-v7a]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[   +1 ms] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|armeabi-v7a : Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a
+[   +1 ms] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|armeabi-v7a : JSON '/app/build/.cxx/release/g651xl1z/armeabi-v7a/android_gradle_build.json' was up-to-date
+[        ] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|armeabi-v7a : JSON generation completed without problems
+[  +15 ms] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|armeabi-v7a : Writing build model to /app/build/app/intermediates/cxx/release/g651xl1z/logs/armeabi-v7a/build_model.json
+[   +1 ms] Resolve mutations for :app:buildCMakeRelease[armeabi-v7a] (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] :app:buildCMakeRelease[armeabi-v7a] (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :app:buildCMakeRelease[armeabi-v7a]
+[        ] Caching disabled for task ':app:buildCMakeRelease[armeabi-v7a]' because:
+[   +1 ms]   Build cache is disabled
+[   +1 ms]   Caching has been disabled for the task
+[        ] Task ':app:buildCMakeRelease[armeabi-v7a]' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[        ] C/C++: starting build
+[        ] C/C++: reading expected JSONs
+[        ] C/C++: done reading expected JSONs
+[        ] C/C++: executing build commands for targets that produce .so files or executables
+[        ] C/C++: evaluate miniconfig
+[   +5 ms] C/C++: no libraries
+[   +2 ms] Resolve mutations for :app:configureCMakeRelease[x86_64] (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:configureCMakeRelease[x86_64] (Thread[#650,Execution worker Thread 2,5,main]) started.
+[  +27 ms] > Task :app:configureCMakeRelease[x86_64]
+[        ] Caching disabled for task ':app:configureCMakeRelease[x86_64]' because:
+[   +1 ms]   Build cache is disabled
+[   +6 ms]   Caching has been disabled for the task
+[   +1 ms] Task ':app:configureCMakeRelease[x86_64]' is not up-to-date because:
+[   +6 ms]   Task.upToDateWhen is false.
+[   +1 ms] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|x86_64 : Start JSON generation. Platform version: 24 min SDK version: x86_64
+[   +5 ms] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|x86_64 : JSON '/app/build/.cxx/release/g651xl1z/x86_64/android_gradle_build.json' was up-to-date
+[   +1 ms] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|x86_64 : JSON generation completed without problems
+[   +6 ms] C/C++: /home/jules/flutter/packages/flutter_tools/gradle/src/main/scripts/CMakeLists.txt release|x86_64 : Writing build model to /app/build/app/intermediates/cxx/release/g651xl1z/logs/x86_64/build_model.json
+[   +9 ms] Resolve mutations for :app:buildCMakeRelease[x86_64] (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] :app:buildCMakeRelease[x86_64] (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +5 ms] > Task :app:buildCMakeRelease[x86_64]
+[   +1 ms] Caching disabled for task ':app:buildCMakeRelease[x86_64]' because:
+[   +6 ms]   Build cache is disabled
+[   +2 ms]   Caching has been disabled for the task
+[   +2 ms] Task ':app:buildCMakeRelease[x86_64]' is not up-to-date because:
+[   +6 ms]   Task.upToDateWhen is false.
+[   +1 ms] C/C++: starting build
+[   +6 ms] C/C++: reading expected JSONs
+[   +1 ms] C/C++: done reading expected JSONs
+[   +3 ms] C/C++: executing build commands for targets that produce .so files or executables
+[   +1 ms] C/C++: evaluate miniconfig
+[   +1 ms] C/C++: no libraries
+[        ] Resolve mutations for :app:mergeReleaseJniLibFolders (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] :app:mergeReleaseJniLibFolders (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] > Task :app:mergeReleaseJniLibFolders UP-TO-DATE
+[   +1 ms] Caching disabled for task ':app:mergeReleaseJniLibFolders' because:
+[        ]   Build cache is disabled
+[   +1 ms]   Simple merging task
+[        ] Skipping task ':app:mergeReleaseJniLibFolders' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:preBuild (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:preBuild (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] > Task :arcore_flutter_plugin:preBuild UP-TO-DATE
+[   +1 ms] Skipping task ':arcore_flutter_plugin:preBuild' as it has no actions.
+[   +1 ms] Resolve mutations for :arcore_flutter_plugin:preReleaseBuild (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] :arcore_flutter_plugin:preReleaseBuild (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] > Task :arcore_flutter_plugin:preReleaseBuild UP-TO-DATE
+[   +1 ms] Skipping task ':arcore_flutter_plugin:preReleaseBuild' as it has no actions.
+[   +6 ms] Resolve mutations for :arcore_flutter_plugin:mergeReleaseJniLibFolders (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] :arcore_flutter_plugin:mergeReleaseJniLibFolders (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] > Task :arcore_flutter_plugin:mergeReleaseJniLibFolders UP-TO-DATE
+[   +1 ms] Caching disabled for task ':arcore_flutter_plugin:mergeReleaseJniLibFolders' because:
+[   +1 ms]   Build cache is disabled
+[   +5 ms]   Simple merging task
+[   +2 ms] Skipping task ':arcore_flutter_plugin:mergeReleaseJniLibFolders' as it is up-to-date.
+[   +1 ms] Resolve mutations for :arcore_flutter_plugin:mergeReleaseNativeLibs (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] :arcore_flutter_plugin:mergeReleaseNativeLibs (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] > Task :arcore_flutter_plugin:mergeReleaseNativeLibs NO-SOURCE
+[   +2 ms] Skipping task ':arcore_flutter_plugin:mergeReleaseNativeLibs' as it has no source files and no previous output files.
+[   +1 ms] Resolve mutations for :arcore_flutter_plugin:copyReleaseJniLibsProjectOnly (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:copyReleaseJniLibsProjectOnly (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] > Task :arcore_flutter_plugin:copyReleaseJniLibsProjectOnly UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:copyReleaseJniLibsProjectOnly' because:
+[   +1 ms]   Build cache is disabled
+[   +1 ms]   Caching has been disabled for the task
+[   +1 ms] Skipping task ':arcore_flutter_plugin:copyReleaseJniLibsProjectOnly' as it is up-to-date.
+[        ] work action resolve jni (project :arcore_flutter_plugin) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:preBuild (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:preBuild (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +1 ms] > Task :permission_handler_android:preBuild UP-TO-DATE
+[   +1 ms] Skipping task ':permission_handler_android:preBuild' as it has no actions.
+[   +1 ms] Resolve mutations for :permission_handler_android:preReleaseBuild (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:preReleaseBuild (Thread[#650,Execution worker Thread 2,5,main]) started.
+[  +24 ms] > Task :permission_handler_android:preReleaseBuild UP-TO-DATE
+[        ] Skipping task ':permission_handler_android:preReleaseBuild' as it has no actions.
+[        ] Resolve mutations for :permission_handler_android:mergeReleaseJniLibFolders (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:mergeReleaseJniLibFolders (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :permission_handler_android:mergeReleaseJniLibFolders UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:mergeReleaseJniLibFolders' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':permission_handler_android:mergeReleaseJniLibFolders' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:mergeReleaseNativeLibs (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:mergeReleaseNativeLibs (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :permission_handler_android:mergeReleaseNativeLibs NO-SOURCE
+[        ] Skipping task ':permission_handler_android:mergeReleaseNativeLibs' as it has no source files and no previous output files.
+[        ] Resolve mutations for :permission_handler_android:copyReleaseJniLibsProjectOnly (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:copyReleaseJniLibsProjectOnly (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:copyReleaseJniLibsProjectOnly UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:copyReleaseJniLibsProjectOnly' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:copyReleaseJniLibsProjectOnly' as it is up-to-date.
+[        ] work action resolve jni (project :permission_handler_android) (Thread[#649,Execution worker,5,main]) started.
+[        ] Resolve mutations for :app:mergeReleaseNativeLibs (Thread[#649,Execution worker,5,main]) started.
+[   +1 ms] :app:mergeReleaseNativeLibs (Thread[#649,Execution worker,5,main]) started.
+[ +229 ms] > Task :app:mergeReleaseNativeLibs UP-TO-DATE
+[        ] Caching disabled for task ':app:mergeReleaseNativeLibs' because:
+[        ]   Build cache is disabled
+[   +2 ms]   Caching has been disabled for the task
+[        ] Skipping task ':app:mergeReleaseNativeLibs' as it is up-to-date.
+[        ] Resolve mutations for :app:stripReleaseDebugSymbols (Thread[#649,Execution worker,5,main]) started.
+[        ] :app:stripReleaseDebugSymbols (Thread[#649,Execution worker,5,main]) started.
+[  +87 ms] > Task :app:stripReleaseDebugSymbols UP-TO-DATE
+[        ] Caching disabled for task ':app:stripReleaseDebugSymbols' because:
+[   +7 ms]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:stripReleaseDebugSymbols' as it is up-to-date.
+[        ] Resolve mutations for :app:extractReleaseNativeSymbolTables (Thread[#649,Execution worker,5,main]) started.
+[        ] :app:extractReleaseNativeSymbolTables (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :app:extractReleaseNativeSymbolTables UP-TO-DATE
+[        ] Caching disabled for task ':app:extractReleaseNativeSymbolTables' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:extractReleaseNativeSymbolTables' as it is up-to-date.
+[        ] Resolve mutations for :app:mergeReleaseNativeDebugMetadata (Thread[#649,Execution worker,5,main]) started.
+[        ] :app:mergeReleaseNativeDebugMetadata (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :app:mergeReleaseNativeDebugMetadata UP-TO-DATE
+[        ] Caching disabled for task ':app:mergeReleaseNativeDebugMetadata' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:mergeReleaseNativeDebugMetadata' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:checkKotlinGradlePluginConfigurationErrors (Thread[#649,Execution worker,5,main]) started.
+[   +1 ms] :arcore_flutter_plugin:checkKotlinGradlePluginConfigurationErrors (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task ':arcore_flutter_plugin:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 'errorDiagnostics are present' is false.
+[        ] Resolve mutations for :arcore_flutter_plugin:generateReleaseResValues (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:generateReleaseResValues (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:generateReleaseResValues UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:generateReleaseResValues' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:generateReleaseResValues' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:generateReleaseResources (Thread[#649,Execution worker,5,main]) started.
+[   +3 ms] :arcore_flutter_plugin:generateReleaseResources (Thread[#648,included builds,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:generateReleaseResources UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:generateReleaseResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:generateReleaseResources' as it is up-to-date.
+[   +7 ms] Resolve mutations for :arcore_flutter_plugin:packageReleaseResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:packageReleaseResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:packageReleaseResources UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:packageReleaseResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:packageReleaseResources' as it is up-to-date.
+[        ] work action resolve packageReleaseResources (project :arcore_flutter_plugin) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :arcore_flutter_plugin:parseReleaseLocalResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +2 ms] :arcore_flutter_plugin:parseReleaseLocalResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[  +66 ms] > Task :arcore_flutter_plugin:parseReleaseLocalResources UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:parseReleaseLocalResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:parseReleaseLocalResources' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:generateReleaseRFile (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:generateReleaseRFile (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:generateReleaseRFile UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:generateReleaseRFile' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:generateReleaseRFile' as it is up-to-date.
+[        ] work action resolve package-aware-r.txt (project :arcore_flutter_plugin) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :arcore_flutter_plugin:compileReleaseKotlin (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:compileReleaseKotlin (Thread[#650,Execution worker Thread 2,5,main]) started.
+[ +298 ms] > Task :arcore_flutter_plugin:compileReleaseKotlin UP-TO-DATE
+[        ] Adding -Xuse-inline-scopes-numbers Kotlin compiler flag for task :arcore_flutter_plugin:compileDebugAndroidTestKotlin
+[        ] Caching disabled for task ':arcore_flutter_plugin:compileReleaseKotlin' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:compileReleaseKotlin' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:javaPreCompileRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:javaPreCompileRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:javaPreCompileRelease UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:javaPreCompileRelease' because:
+[        ]   Build cache is disabled
+[   +6 ms] Skipping task ':arcore_flutter_plugin:javaPreCompileRelease' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:compileReleaseJavaWithJavac (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:compileReleaseJavaWithJavac (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:compileReleaseJavaWithJavac NO-SOURCE
+[        ] Skipping task ':arcore_flutter_plugin:compileReleaseJavaWithJavac' as it has no source files and no previous output files.
+[        ] Resolve mutations for :arcore_flutter_plugin:mergeReleaseGeneratedProguardFiles (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:mergeReleaseGeneratedProguardFiles (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:mergeReleaseGeneratedProguardFiles' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':arcore_flutter_plugin:mergeReleaseGeneratedProguardFiles' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:exportReleaseConsumerProguardFiles (Thread[#649,Execution worker,5,main]) started.
+[        ] :arcore_flutter_plugin:exportReleaseConsumerProguardFiles (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:exportReleaseConsumerProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:exportReleaseConsumerProguardFiles' because:
+[        ]   Build cache is disabled
+[   +3 ms]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:exportReleaseConsumerProguardFiles' as it is up-to-date.
+[        ] work action resolve exportReleaseConsumerProguardFiles (project :arcore_flutter_plugin) (Thread[#649,Execution worker,5,main]) started.
+[        ] FilterShrinkerRulesTransform (Thread[#648,included builds,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:generateReleaseResValues (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:generateReleaseResValues (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:generateReleaseResValues UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:generateReleaseResValues' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:generateReleaseResValues' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:generateReleaseResources (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:generateReleaseResources (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:generateReleaseResources UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:generateReleaseResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:generateReleaseResources' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:packageReleaseResources (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:packageReleaseResources (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:packageReleaseResources UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:packageReleaseResources' because:
+[        ]   Build cache is disabled
+[   +2 ms] Skipping task ':permission_handler_android:packageReleaseResources' as it is up-to-date.
+[        ] work action resolve packageReleaseResources (project :permission_handler_android) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:parseReleaseLocalResources (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:parseReleaseLocalResources (Thread[#651,Execution worker Thread 3,5,main]) started.
+[  +75 ms] > Task :permission_handler_android:parseReleaseLocalResources UP-TO-DATE
+[   +1 ms] Caching disabled for task ':permission_handler_android:parseReleaseLocalResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:parseReleaseLocalResources' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:generateReleaseRFile (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:generateReleaseRFile (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :permission_handler_android:generateReleaseRFile UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:generateReleaseRFile' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:generateReleaseRFile' as it is up-to-date.
+[        ] work action resolve package-aware-r.txt (project :permission_handler_android) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:javaPreCompileRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:javaPreCompileRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:javaPreCompileRelease UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:javaPreCompileRelease' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:javaPreCompileRelease' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:compileReleaseJavaWithJavac (Thread[#649,Execution worker,5,main]) started.
+[        ] :permission_handler_android:compileReleaseJavaWithJavac (Thread[#649,Execution worker,5,main]) started.
+[  +92 ms] > Task :permission_handler_android:compileReleaseJavaWithJavac UP-TO-DATE
+[        ] Custom actions are attached to task ':permission_handler_android:compileReleaseJavaWithJavac'.
+[        ] Caching disabled for task ':permission_handler_android:compileReleaseJavaWithJavac' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:compileReleaseJavaWithJavac' as it is up-to-date.
+[   +3 ms] No compile result for :permission_handler_android:compileReleaseJavaWithJavac
+[        ] No compile result for :permission_handler_android:compileReleaseJavaWithJavac
+[  +18 ms] Resolve mutations for :permission_handler_android:mergeReleaseGeneratedProguardFiles (Thread[#649,Execution worker,5,main]) started.
+[        ] :permission_handler_android:mergeReleaseGeneratedProguardFiles (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :permission_handler_android:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:mergeReleaseGeneratedProguardFiles' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':permission_handler_android:mergeReleaseGeneratedProguardFiles' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:exportReleaseConsumerProguardFiles (Thread[#649,Execution worker,5,main]) started.
+[        ] :permission_handler_android:exportReleaseConsumerProguardFiles (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :permission_handler_android:exportReleaseConsumerProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:exportReleaseConsumerProguardFiles' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:exportReleaseConsumerProguardFiles' as it is up-to-date.
+[        ] work action resolve exportReleaseConsumerProguardFiles (project :permission_handler_android) (Thread[#649,Execution worker,5,main]) started.
+[        ] FilterShrinkerRulesTransform (Thread[#649,Execution worker,5,main]) started.
+[        ] Resolve mutations for :app:buildKotlinToolingMetadata (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:buildKotlinToolingMetadata (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :app:buildKotlinToolingMetadata UP-TO-DATE
+[        ] Caching disabled for task ':app:buildKotlinToolingMetadata' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:buildKotlinToolingMetadata' as it is up-to-date.
+[        ] Resolve mutations for :app:checkReleaseDuplicateClasses (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:checkReleaseDuplicateClasses (Thread[#650,Execution worker Thread 2,5,main]) started.
+[+1181 ms] > Task :app:checkReleaseDuplicateClasses UP-TO-DATE
+[        ] Caching disabled for task ':app:checkReleaseDuplicateClasses' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:checkReleaseDuplicateClasses' as it is up-to-date.
+[        ] Resolve mutations for :app:checkKotlinGradlePluginConfigurationErrors (Thread[#648,included builds,5,main]) started.
+[        ] :app:checkKotlinGradlePluginConfigurationErrors (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+[        ] Skipping task ':app:checkKotlinGradlePluginConfigurationErrors' as task onlyIf 'errorDiagnostics are present' is false.
+[        ] Resolve mutations for :arcore_flutter_plugin:writeReleaseAarMetadata (Thread[#649,Execution worker,5,main]) started.
+[        ] :arcore_flutter_plugin:writeReleaseAarMetadata (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:writeReleaseAarMetadata UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:writeReleaseAarMetadata' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:writeReleaseAarMetadata' as it is up-to-date.
+[        ] work action resolve aar-metadata.properties (project :arcore_flutter_plugin) (Thread[#649,Execution worker,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:writeReleaseAarMetadata (Thread[#649,Execution worker,5,main]) started.
+[        ] :permission_handler_android:writeReleaseAarMetadata (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:writeReleaseAarMetadata UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:writeReleaseAarMetadata' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:writeReleaseAarMetadata' as it is up-to-date.
+[        ] work action resolve aar-metadata.properties (project :permission_handler_android) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :app:checkReleaseAarMetadata (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :app:checkReleaseAarMetadata (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:checkReleaseAarMetadata UP-TO-DATE
+[        ] Caching disabled for task ':app:checkReleaseAarMetadata' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:checkReleaseAarMetadata' as it is up-to-date.
+[   +2 ms] Resolve mutations for :app:cleanMergeReleaseAssets (Thread[#648,included builds,5,main]) started.
+[        ] :app:cleanMergeReleaseAssets (Thread[#648,included builds,5,main]) started.
+[  +76 ms] > Task :app:cleanMergeReleaseAssets
+[        ] Caching disabled for task ':app:cleanMergeReleaseAssets' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:cleanMergeReleaseAssets' is not up-to-date because:
+[        ]   Task has not declared any outputs despite executing actions.
+[        ] Resolve mutations for :app:mergeReleaseShaders (Thread[#648,included builds,5,main]) started.
+[        ] :app:mergeReleaseShaders (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:mergeReleaseShaders UP-TO-DATE
+[   +3 ms] Caching disabled for task ':app:mergeReleaseShaders' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':app:mergeReleaseShaders' as it is up-to-date.
+[        ] Resolve mutations for :app:compileReleaseShaders (Thread[#648,included builds,5,main]) started.
+[        ] :app:compileReleaseShaders (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:compileReleaseShaders NO-SOURCE
+[   +5 ms] Skipping task ':app:compileReleaseShaders' as it has no source files and no previous output files.
+[        ] Resolve mutations for :app:generateReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[   +7 ms] :app:generateReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :app:generateReleaseAssets UP-TO-DATE
+[        ] Skipping task ':app:generateReleaseAssets' as it has no actions.
+[        ] Resolve mutations for :arcore_flutter_plugin:mergeReleaseShaders (Thread[#648,included builds,5,main]) started.
+[        ] :arcore_flutter_plugin:mergeReleaseShaders (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:mergeReleaseShaders UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:mergeReleaseShaders' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':arcore_flutter_plugin:mergeReleaseShaders' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:compileReleaseShaders (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :arcore_flutter_plugin:compileReleaseShaders (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:compileReleaseShaders NO-SOURCE
+[        ] Skipping task ':arcore_flutter_plugin:compileReleaseShaders' as it has no source files and no previous output files.
+[        ] Resolve mutations for :arcore_flutter_plugin:generateReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[   +3 ms] :arcore_flutter_plugin:generateReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:generateReleaseAssets UP-TO-DATE
+[        ] Skipping task ':arcore_flutter_plugin:generateReleaseAssets' as it has no actions.
+[        ] Resolve mutations for :arcore_flutter_plugin:mergeReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :arcore_flutter_plugin:mergeReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:mergeReleaseAssets UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:mergeReleaseAssets' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':arcore_flutter_plugin:mergeReleaseAssets' as it is up-to-date.
+[        ] work action resolve mergeReleaseAssets (project :arcore_flutter_plugin) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:mergeReleaseShaders (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:mergeReleaseShaders (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:mergeReleaseShaders UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:mergeReleaseShaders' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':permission_handler_android:mergeReleaseShaders' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:compileReleaseShaders (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:compileReleaseShaders (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:compileReleaseShaders NO-SOURCE
+[  +13 ms] Skipping task ':permission_handler_android:compileReleaseShaders' as it has no source files and no previous output files.
+[        ] Resolve mutations for :permission_handler_android:generateReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:generateReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[   +5 ms] > Task :permission_handler_android:generateReleaseAssets UP-TO-DATE
+[        ] Skipping task ':permission_handler_android:generateReleaseAssets' as it has no actions.
+[        ] Resolve mutations for :permission_handler_android:mergeReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:mergeReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:mergeReleaseAssets UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:mergeReleaseAssets' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':permission_handler_android:mergeReleaseAssets' as it is up-to-date.
+[        ] work action resolve mergeReleaseAssets (project :permission_handler_android) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :app:mergeReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :app:mergeReleaseAssets (Thread[#651,Execution worker Thread 3,5,main]) started.
+[  +46 ms] > Task :app:mergeReleaseAssets
+[        ] Caching disabled for task ':app:mergeReleaseAssets' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Task ':app:mergeReleaseAssets' is not up-to-date because:
+[        ]   Output property 'outputDir' file /app/build/app/intermediates/assets/release/mergeReleaseAssets has been removed.
+[        ] The input changes require a full rebuild for incremental task ':app:mergeReleaseAssets'.
+[        ] Resolve mutations for :app:copyFlutterAssetsRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :app:copyFlutterAssetsRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[ +192 ms] > Task :app:copyFlutterAssetsRelease
+[        ] Caching disabled for task ':app:copyFlutterAssetsRelease' because:
+[        ]   Build cache is disabled
+[        ]   Not worth caching
+[   +1 ms] Task ':app:copyFlutterAssetsRelease' is not up-to-date because:
+[        ]   Output property 'destinationDir' file /app/build/app/intermediates/assets/release/mergeReleaseAssets/flutter_assets has been removed.
+[        ]   Output property 'destinationDir' file /app/build/app/intermediates/assets/release/mergeReleaseAssets/flutter_assets/AssetManifest.bin has been removed.
+[        ]   Output property 'destinationDir' file /app/build/app/intermediates/assets/release/mergeReleaseAssets/flutter_assets/FontManifest.json has been removed.
+[        ]   and more...
+[        ] Resolve mutations for :app:generateReleaseResValues (Thread[#648,included builds,5,main]) started.
+[        ] :app:generateReleaseResValues (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:generateReleaseResValues UP-TO-DATE
+[        ] Caching disabled for task ':app:generateReleaseResValues' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:generateReleaseResValues' as it is up-to-date.
+[        ] Resolve mutations for :app:mapReleaseSourceSetPaths (Thread[#648,included builds,5,main]) started.
+[        ] :app:mapReleaseSourceSetPaths (Thread[#648,included builds,5,main]) started.
+[  +92 ms] > Task :app:mapReleaseSourceSetPaths UP-TO-DATE
+[        ] Caching disabled for task ':app:mapReleaseSourceSetPaths' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:mapReleaseSourceSetPaths' as it is up-to-date.
+[        ] Resolve mutations for :app:generateReleaseResources (Thread[#648,included builds,5,main]) started.
+[        ] :app:generateReleaseResources (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:generateReleaseResources UP-TO-DATE
+[        ] Caching disabled for task ':app:generateReleaseResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:generateReleaseResources' as it is up-to-date.
+[        ] Resolve mutations for :app:mergeReleaseResources (Thread[#648,included builds,5,main]) started.
+[        ] :app:mergeReleaseResources (Thread[#651,Execution worker Thread 3,5,main]) started.
+[ +196 ms] > Task :app:mergeReleaseResources UP-TO-DATE
+[        ] Caching disabled for task ':app:mergeReleaseResources' because:
+[   +1 ms]   Build cache is disabled
+[        ] Skipping task ':app:mergeReleaseResources' as it is up-to-date.
+[   +1 ms] Resolve mutations for :app:packageReleaseResources (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :app:packageReleaseResources (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:packageReleaseResources UP-TO-DATE
+[        ] Caching disabled for task ':app:packageReleaseResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:packageReleaseResources' as it is up-to-date.
+[        ] Resolve mutations for :app:parseReleaseLocalResources (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :app:parseReleaseLocalResources (Thread[#648,included builds,5,main]) started.
+[  +93 ms] > Task :app:parseReleaseLocalResources UP-TO-DATE
+[        ] Caching disabled for task ':app:parseReleaseLocalResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:parseReleaseLocalResources' as it is up-to-date.
+[        ] Resolve mutations for :app:createReleaseCompatibleScreenManifests (Thread[#648,included builds,5,main]) started.
+[        ] :app:createReleaseCompatibleScreenManifests (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:createReleaseCompatibleScreenManifests UP-TO-DATE
+[        ] Caching disabled for task ':app:createReleaseCompatibleScreenManifests' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:createReleaseCompatibleScreenManifests' as it is up-to-date.
+[        ] Resolve mutations for :app:extractDeepLinksRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :app:extractDeepLinksRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :app:extractDeepLinksRelease UP-TO-DATE
+[        ] Caching disabled for task ':app:extractDeepLinksRelease' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:extractDeepLinksRelease' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:extractDeepLinksRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :arcore_flutter_plugin:extractDeepLinksRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:extractDeepLinksRelease UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:extractDeepLinksRelease' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:extractDeepLinksRelease' as it is up-to-date.
+[        ] work action resolve navigation.json (project :arcore_flutter_plugin) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :arcore_flutter_plugin:processReleaseManifest (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :arcore_flutter_plugin:processReleaseManifest (Thread[#648,included builds,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:processReleaseManifest UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:processReleaseManifest' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:processReleaseManifest' as it is up-to-date.
+[        ] work action resolve AndroidManifest.xml (project :arcore_flutter_plugin) (Thread[#648,included builds,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:extractDeepLinksRelease (Thread[#648,included builds,5,main]) started.
+[        ] :permission_handler_android:extractDeepLinksRelease (Thread[#648,included builds,5,main]) started.
+[        ] > Task :permission_handler_android:extractDeepLinksRelease UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:extractDeepLinksRelease' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:extractDeepLinksRelease' as it is up-to-date.
+[        ] work action resolve navigation.json (project :permission_handler_android) (Thread[#648,included builds,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:processReleaseManifest (Thread[#648,included builds,5,main]) started.
+[        ] :permission_handler_android:processReleaseManifest (Thread[#648,included builds,5,main]) started.
+[        ] > Task :permission_handler_android:processReleaseManifest UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:processReleaseManifest' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:processReleaseManifest' as it is up-to-date.
+[        ] work action resolve AndroidManifest.xml (project :permission_handler_android) (Thread[#648,included builds,5,main]) started.
+[        ] Resolve mutations for :app:processReleaseMainManifest (Thread[#648,included builds,5,main]) started.
+[        ] :app:processReleaseMainManifest (Thread[#648,included builds,5,main]) started.
+[  +83 ms] > Task :app:processReleaseMainManifest UP-TO-DATE
+[        ] Caching disabled for task ':app:processReleaseMainManifest' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:processReleaseMainManifest' as it is up-to-date.
+[        ] Resolve mutations for :app:outputReleaseAppLinkSettings (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :app:outputReleaseAppLinkSettings (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :app:outputReleaseAppLinkSettings UP-TO-DATE
+[        ] Caching disabled for task ':app:outputReleaseAppLinkSettings' because:
+[        ]   Build cache is disabled
+[        ]   Caching has not been enabled for the task
+[        ] Skipping task ':app:outputReleaseAppLinkSettings' as it is up-to-date.
+[        ] Resolve mutations for :app:processReleaseManifest (Thread[#648,included builds,5,main]) started.
+[        ] :app:processReleaseManifest (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :app:processReleaseManifest UP-TO-DATE
+[        ] Caching disabled for task ':app:processReleaseManifest' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:processReleaseManifest' as it is up-to-date.
+[        ] Resolve mutations for :app:processReleaseManifestForPackage (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:processReleaseManifestForPackage (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :app:processReleaseManifestForPackage UP-TO-DATE
+[        ] Custom actions are attached to task ':app:processReleaseManifestForPackage'.
+[        ] Caching disabled for task ':app:processReleaseManifestForPackage' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:processReleaseManifestForPackage' as it is up-to-date.
+[        ] Resolve mutations for :app:processReleaseResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:processReleaseResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[  +94 ms] > Task :app:processReleaseResources UP-TO-DATE
+[        ] Caching disabled for task ':app:processReleaseResources' because:
+[        ]   Build cache is disabled
+[   +1 ms] Skipping task ':app:processReleaseResources' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:bundleLibCompileToJarRelease (Thread[#649,Execution worker,5,main]) started.
+[   +1 ms] :arcore_flutter_plugin:bundleLibCompileToJarRelease (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:bundleLibCompileToJarRelease UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:bundleLibCompileToJarRelease' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':arcore_flutter_plugin:bundleLibCompileToJarRelease' as it is up-to-date.
+[        ] work action resolve classes.jar (project :arcore_flutter_plugin) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:bundleLibCompileToJarRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:bundleLibCompileToJarRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :permission_handler_android:bundleLibCompileToJarRelease UP-TO-DATE
+[   +9 ms] Caching disabled for task ':permission_handler_android:bundleLibCompileToJarRelease' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':permission_handler_android:bundleLibCompileToJarRelease' as it is up-to-date.
+[        ] work action resolve classes.jar (project :permission_handler_android) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :app:compileReleaseKotlin (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:compileReleaseKotlin (Thread[#650,Execution worker Thread 2,5,main]) started.
+[  +79 ms] > Task :app:compileReleaseKotlin UP-TO-DATE
+[        ] Adding -Xuse-inline-scopes-numbers Kotlin compiler flag for task :app:compileDebugAndroidTestKotlin
+[        ] Caching disabled for task ':app:compileReleaseKotlin' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:compileReleaseKotlin' as it is up-to-date.
+[        ] Resolve mutations for :app:javaPreCompileRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:javaPreCompileRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :app:javaPreCompileRelease UP-TO-DATE
+[        ] Caching disabled for task ':app:javaPreCompileRelease' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:javaPreCompileRelease' as it is up-to-date.
+[        ] Resolve mutations for :app:compileReleaseJavaWithJavac (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:compileReleaseJavaWithJavac (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :app:compileReleaseJavaWithJavac UP-TO-DATE
+[        ] Custom actions are attached to task ':app:compileReleaseJavaWithJavac'.
+[        ] Caching disabled for task ':app:compileReleaseJavaWithJavac' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:compileReleaseJavaWithJavac' as it is up-to-date.
+[        ] No compile result for :app:compileReleaseJavaWithJavac
+[        ] No compile result for :app:compileReleaseJavaWithJavac
+[        ] Resolve mutations for :arcore_flutter_plugin:prepareReleaseArtProfile (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :arcore_flutter_plugin:prepareReleaseArtProfile (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:prepareReleaseArtProfile UP-TO-DATE
+[   +2 ms] Caching disabled for task ':arcore_flutter_plugin:prepareReleaseArtProfile' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:prepareReleaseArtProfile' as it is up-to-date.
+[        ] work action resolve baseline-prof.txt (project :arcore_flutter_plugin) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:prepareReleaseArtProfile (Thread[#651,Execution worker Thread 3,5,main]) started.
+[   +1 ms] :permission_handler_android:prepareReleaseArtProfile (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :permission_handler_android:prepareReleaseArtProfile UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:prepareReleaseArtProfile' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:prepareReleaseArtProfile' as it is up-to-date.
+[        ] work action resolve baseline-prof.txt (project :permission_handler_android) (Thread[#649,Execution worker,5,main]) started.
+[        ] Resolve mutations for :app:mergeReleaseArtProfile (Thread[#649,Execution worker,5,main]) started.
+[        ] :app:mergeReleaseArtProfile (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :app:mergeReleaseArtProfile UP-TO-DATE
+[        ] Caching disabled for task ':app:mergeReleaseArtProfile' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':app:mergeReleaseArtProfile' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:bundleLibRuntimeToJarRelease (Thread[#649,Execution worker,5,main]) started.
+[        ] :arcore_flutter_plugin:bundleLibRuntimeToJarRelease (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:bundleLibRuntimeToJarRelease UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:bundleLibRuntimeToJarRelease' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':arcore_flutter_plugin:bundleLibRuntimeToJarRelease' as it is up-to-date.
+[        ] work action resolve classes.jar (project :arcore_flutter_plugin) (Thread[#649,Execution worker,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:bundleLibRuntimeToJarRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:bundleLibRuntimeToJarRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :permission_handler_android:bundleLibRuntimeToJarRelease UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:bundleLibRuntimeToJarRelease' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':permission_handler_android:bundleLibRuntimeToJarRelease' as it is up-to-date.
+[        ] work action resolve classes.jar (project :permission_handler_android) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :app:expandReleaseArtProfileWildcards (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:expandReleaseArtProfileWildcards (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :app:expandReleaseArtProfileWildcards UP-TO-DATE
+[        ] Caching disabled for task ':app:expandReleaseArtProfileWildcards' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:expandReleaseArtProfileWildcards' as it is up-to-date.
+[        ] Resolve mutations for :app:extractProguardFiles (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:extractProguardFiles (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :app:extractProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':app:extractProguardFiles' because:
+[        ]   Build cache is disabled
+[        ]   Fast task
+[        ] Skipping task ':app:extractProguardFiles' as it is up-to-date.
+[        ] Resolve mutations for :app:mergeReleaseGeneratedProguardFiles (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:mergeReleaseGeneratedProguardFiles (Thread[#650,Execution worker Thread 2,5,main]) started.
+[ +100 ms] > Task :app:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':app:mergeReleaseGeneratedProguardFiles' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':app:mergeReleaseGeneratedProguardFiles' as it is up-to-date.
+[        ] Resolve mutations for :app:processReleaseJavaRes (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:processReleaseJavaRes (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :app:processReleaseJavaRes UP-TO-DATE
+[   +1 ms] file or directory '/app/android/app/src/main/resources', not found
+[        ] file or directory '/app/android/app/src/release/resources', not found
+[        ] file or directory '/app/android/app/src/main/resources', not found
+[        ] file or directory '/app/android/app/src/release/resources', not found
+[        ] Caching disabled for task ':app:processReleaseJavaRes' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:processReleaseJavaRes' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:processReleaseJavaRes (Thread[#649,Execution worker,5,main]) started.
+[        ] :arcore_flutter_plugin:processReleaseJavaRes (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:processReleaseJavaRes UP-TO-DATE
+[        ] file or directory '/app/plugins/arcore_flutter_plugin/android/src/main/resources', not found
+[        ] file or directory '/app/plugins/arcore_flutter_plugin/android/src/release/resources', not found
+[        ] file or directory '/app/plugins/arcore_flutter_plugin/android/src/main/resources', not found
+[        ] file or directory '/app/plugins/arcore_flutter_plugin/android/src/release/resources', not found
+[        ] Caching disabled for task ':arcore_flutter_plugin:processReleaseJavaRes' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:processReleaseJavaRes' as it is up-to-date.
+[        ] work action resolve out (project :arcore_flutter_plugin) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:processReleaseJavaRes (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:processReleaseJavaRes (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :permission_handler_android:processReleaseJavaRes NO-SOURCE
+[        ] file or directory '/home/jules/.pub-cache/hosted/pub.dev/permission_handler_android-12.1.0/android/src/main/resources', not found
+[        ] file or directory '/home/jules/.pub-cache/hosted/pub.dev/permission_handler_android-12.1.0/android/src/release/resources', not found
+[        ] Skipping task ':permission_handler_android:processReleaseJavaRes' as it has no source files and no previous output files.
+[        ] work action resolve out (project :permission_handler_android) (Thread[#649,Execution worker,5,main]) started.
+[        ] Resolve mutations for :app:mergeReleaseJavaResource (Thread[#649,Execution worker,5,main]) started.
+[        ] :app:mergeReleaseJavaResource (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :app:mergeReleaseJavaResource UP-TO-DATE
+[   +1 ms] Caching disabled for task ':app:mergeReleaseJavaResource' because:
+[        ]   Build cache is disabled
+[   +1 ms]   Caching has been disabled for the task
+[        ] Skipping task ':app:mergeReleaseJavaResource' as it is up-to-date.
+[        ] Resolve mutations for :app:mergeReleaseStartupProfile (Thread[#649,Execution worker,5,main]) started.
+[        ] :app:mergeReleaseStartupProfile (Thread[#649,Execution worker,5,main]) started.
+[        ] > Task :app:mergeReleaseStartupProfile UP-TO-DATE
+[        ] Caching disabled for task ':app:mergeReleaseStartupProfile' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':app:mergeReleaseStartupProfile' as it is up-to-date.
+[        ] Resolve mutations for :app:minifyReleaseWithR8 (Thread[#649,Execution worker,5,main]) started.
+[        ] :app:minifyReleaseWithR8 (Thread[#649,Execution worker,5,main]) started.
+[  +68 ms] Resolve mutations for :app:compressReleaseAssets (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:compressReleaseAssets (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:compressReleaseAssets UP-TO-DATE
+[        ] Caching disabled for task ':app:compressReleaseAssets' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':app:compressReleaseAssets' as it is up-to-date.
+[        ] Resolve mutations for :app:extractReleaseVersionControlInfo (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:extractReleaseVersionControlInfo (Thread[#650,Execution worker Thread 2,5,main]) started.
+[  +96 ms] > Task :app:extractReleaseVersionControlInfo UP-TO-DATE
+[        ] Caching disabled for task ':app:extractReleaseVersionControlInfo' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:extractReleaseVersionControlInfo' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:createFullJarRelease (Thread[#648,included builds,5,main]) started.
+[        ] :arcore_flutter_plugin:createFullJarRelease (Thread[#648,included builds,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:createFullJarRelease UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:createFullJarRelease' because:
+[        ]   Build cache is disabled
+[   +4 ms]   Simple merging task
+[        ] Skipping task ':arcore_flutter_plugin:createFullJarRelease' as it is up-to-date.
+[        ] work action resolve full.jar (project :arcore_flutter_plugin) (Thread[#648,included builds,5,main]) started.
+[        ] work action resolve full.jar (project :arcore_flutter_plugin) (Thread[#648,included builds,5,main]) started.
+[        ] Resolve mutations for :arcore_flutter_plugin:extractProguardFiles (Thread[#648,included builds,5,main]) started.
+[        ] :arcore_flutter_plugin:extractProguardFiles (Thread[#648,included builds,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:extractProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:extractProguardFiles' because:
+[        ]   Build cache is disabled
+[        ]   Fast task
+[        ] Skipping task ':arcore_flutter_plugin:extractProguardFiles' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:generateReleaseLintModel (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:generateReleaseLintModel (Thread[#650,Execution worker Thread 2,5,main]) started.
+[  +92 ms] > Task :arcore_flutter_plugin:generateReleaseLintModel UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:generateReleaseLintModel' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:generateReleaseLintModel' as it is up-to-date.
+[        ] work action resolve generateReleaseLintModel (project :arcore_flutter_plugin) (Thread[#648,included builds,5,main]) started.
+[        ] work action resolve generateReleaseLintModel (project :arcore_flutter_plugin) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :arcore_flutter_plugin:prepareLintJarForPublish (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :arcore_flutter_plugin:prepareLintJarForPublish (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:prepareLintJarForPublish UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:prepareLintJarForPublish' because:
+[        ]   Build cache is disabled
+[   +4 ms]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:prepareLintJarForPublish' as it is up-to-date.
+[        ] work action resolve lint.jar (project :arcore_flutter_plugin) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] work action resolve lint.jar (project :arcore_flutter_plugin) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:createFullJarRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:createFullJarRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:createFullJarRelease UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:createFullJarRelease' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':permission_handler_android:createFullJarRelease' as it is up-to-date.
+[        ] work action resolve full.jar (project :permission_handler_android) (Thread[#648,included builds,5,main]) started.
+[        ] work action resolve full.jar (project :permission_handler_android) (Thread[#648,included builds,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:extractProguardFiles (Thread[#648,included builds,5,main]) started.
+[        ] :permission_handler_android:extractProguardFiles (Thread[#648,included builds,5,main]) started.
+[   +4 ms] > Task :permission_handler_android:extractProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:extractProguardFiles' because:
+[        ]   Build cache is disabled
+[        ]   Fast task
+[        ] Skipping task ':permission_handler_android:extractProguardFiles' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:generateReleaseLintModel (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:generateReleaseLintModel (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:generateReleaseLintModel UP-TO-DATE
+[   +5 ms] Caching disabled for task ':permission_handler_android:generateReleaseLintModel' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:generateReleaseLintModel' as it is up-to-date.
+[        ] work action resolve generateReleaseLintModel (project :permission_handler_android) (Thread[#648,included builds,5,main]) started.
+[        ] work action resolve generateReleaseLintModel (project :permission_handler_android) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:prepareLintJarForPublish (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:prepareLintJarForPublish (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :permission_handler_android:prepareLintJarForPublish UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:prepareLintJarForPublish' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:prepareLintJarForPublish' as it is up-to-date.
+[   +4 ms] work action resolve lint.jar (project :permission_handler_android) (Thread[#648,included builds,5,main]) started.
+[        ] work action resolve lint.jar (project :permission_handler_android) (Thread[#648,included builds,5,main]) started.
+[        ] Resolve mutations for :app:generateReleaseLintVitalReportModel (Thread[#648,included builds,5,main]) started.
+[        ] :app:generateReleaseLintVitalReportModel (Thread[#648,included builds,5,main]) started.
+[ +166 ms] > Task :app:generateReleaseLintVitalReportModel
+[        ] Caching disabled for task ':app:generateReleaseLintVitalReportModel' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:generateReleaseLintVitalReportModel' is not up-to-date because:
+[        ]   Input property 'variantInputs.proguardFiles' file /app/android/app/proguard-rules.pro has changed.
+[        ] Resolve mutations for :arcore_flutter_plugin:stripReleaseDebugSymbols (Thread[#648,included builds,5,main]) started.
+[        ] :arcore_flutter_plugin:stripReleaseDebugSymbols (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:stripReleaseDebugSymbols NO-SOURCE
+[        ] Skipping task ':arcore_flutter_plugin:stripReleaseDebugSymbols' as it has no source files and no previous output files.
+[        ] Resolve mutations for :arcore_flutter_plugin:copyReleaseJniLibsProjectAndLocalJars (Thread[#648,included builds,5,main]) started.
+[        ] :arcore_flutter_plugin:copyReleaseJniLibsProjectAndLocalJars (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:copyReleaseJniLibsProjectAndLocalJars' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:copyReleaseJniLibsProjectAndLocalJars' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:extractDeepLinksForAarRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :arcore_flutter_plugin:extractDeepLinksForAarRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:extractDeepLinksForAarRelease UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:extractDeepLinksForAarRelease' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:extractDeepLinksForAarRelease' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:extractReleaseAnnotations (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :arcore_flutter_plugin:extractReleaseAnnotations (Thread[#651,Execution worker Thread 3,5,main]) started.
+[  +91 ms] > Task :arcore_flutter_plugin:extractReleaseAnnotations UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:extractReleaseAnnotations' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:extractReleaseAnnotations' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:mergeReleaseConsumerProguardFiles (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :arcore_flutter_plugin:mergeReleaseConsumerProguardFiles (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:mergeReleaseConsumerProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:mergeReleaseConsumerProguardFiles' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':arcore_flutter_plugin:mergeReleaseConsumerProguardFiles' as it is up-to-date.
+[   +1 ms] Resolve mutations for :arcore_flutter_plugin:mergeReleaseJavaResource (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:mergeReleaseJavaResource (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:mergeReleaseJavaResource UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:mergeReleaseJavaResource' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:mergeReleaseJavaResource' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:syncReleaseLibJars (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :arcore_flutter_plugin:syncReleaseLibJars (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:syncReleaseLibJars UP-TO-DATE
+[   +4 ms] Caching disabled for task ':arcore_flutter_plugin:syncReleaseLibJars' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:syncReleaseLibJars' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:bundleReleaseLocalLintAar (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :arcore_flutter_plugin:bundleReleaseLocalLintAar (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:bundleReleaseLocalLintAar UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:bundleReleaseLocalLintAar' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:bundleReleaseLocalLintAar' as it is up-to-date.
+[        ] work action resolve out.aar (project :arcore_flutter_plugin) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[   +1 ms] work action resolve out.aar (project :arcore_flutter_plugin) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[   +6 ms] ExtractAarTransform (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:stripReleaseDebugSymbols (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:stripReleaseDebugSymbols (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:stripReleaseDebugSymbols NO-SOURCE
+[        ] Skipping task ':permission_handler_android:stripReleaseDebugSymbols' as it has no source files and no previous output files.
+[        ] ExtractAarTransform (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:copyReleaseJniLibsProjectAndLocalJars (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:copyReleaseJniLibsProjectAndLocalJars (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:copyReleaseJniLibsProjectAndLocalJars' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:copyReleaseJniLibsProjectAndLocalJars' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:extractDeepLinksForAarRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:extractDeepLinksForAarRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:extractDeepLinksForAarRelease UP-TO-DATE
+[  +11 ms] Caching disabled for task ':permission_handler_android:extractDeepLinksForAarRelease' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:extractDeepLinksForAarRelease' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:extractReleaseAnnotations (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:extractReleaseAnnotations (Thread[#651,Execution worker Thread 3,5,main]) started.
+[  +78 ms] > Task :permission_handler_android:extractReleaseAnnotations UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:extractReleaseAnnotations' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:extractReleaseAnnotations' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:mergeReleaseConsumerProguardFiles (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:mergeReleaseConsumerProguardFiles (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:mergeReleaseConsumerProguardFiles UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:mergeReleaseConsumerProguardFiles' because:
+[        ]   Build cache is disabled
+[        ]   Simple merging task
+[        ] Skipping task ':permission_handler_android:mergeReleaseConsumerProguardFiles' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:mergeReleaseJavaResource (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:mergeReleaseJavaResource (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :permission_handler_android:mergeReleaseJavaResource UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:mergeReleaseJavaResource' because:
+[   +4 ms]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:mergeReleaseJavaResource' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:syncReleaseLibJars (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:syncReleaseLibJars (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :permission_handler_android:syncReleaseLibJars UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:syncReleaseLibJars' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:syncReleaseLibJars' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:bundleReleaseLocalLintAar (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:bundleReleaseLocalLintAar (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] > Task :permission_handler_android:bundleReleaseLocalLintAar UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:bundleReleaseLocalLintAar' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[   +4 ms] Skipping task ':permission_handler_android:bundleReleaseLocalLintAar' as it is up-to-date.
+[        ] work action resolve out.aar (project :permission_handler_android) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] work action resolve out.aar (project :permission_handler_android) (Thread[#648,included builds,5,main]) started.
+[        ] ExtractAarTransform (Thread[#648,included builds,5,main]) started.
+[        ] ExtractAarTransform (Thread[#648,included builds,5,main]) started.
+[        ] Resolve mutations for :arcore_flutter_plugin:lintVitalAnalyzeRelease (Thread[#648,included builds,5,main]) started.
+[        ] :arcore_flutter_plugin:lintVitalAnalyzeRelease (Thread[#648,included builds,5,main]) started.
+[  +82 ms] > Task :arcore_flutter_plugin:lintVitalAnalyzeRelease UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:lintVitalAnalyzeRelease' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:lintVitalAnalyzeRelease' as it is up-to-date.
+[        ] work action resolve out (project :arcore_flutter_plugin) (Thread[#648,included builds,5,main]) started.
+[        ] work action resolve out (project :arcore_flutter_plugin) (Thread[#648,included builds,5,main]) started.
+[        ] Resolve mutations for :arcore_flutter_plugin:writeReleaseLintModelMetadata (Thread[#648,included builds,5,main]) started.
+[        ] :arcore_flutter_plugin:writeReleaseLintModelMetadata (Thread[#648,included builds,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:writeReleaseLintModelMetadata UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:writeReleaseLintModelMetadata' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:writeReleaseLintModelMetadata' as it is up-to-date.
+[        ] work action resolve lint-model-metadata.properties (project :arcore_flutter_plugin) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] work action resolve lint-model-metadata.properties (project :arcore_flutter_plugin) (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:lintVitalAnalyzeRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :permission_handler_android:lintVitalAnalyzeRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[  +11 ms] > Task :permission_handler_android:lintVitalAnalyzeRelease UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:lintVitalAnalyzeRelease' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:lintVitalAnalyzeRelease' as it is up-to-date.
+[        ] work action resolve out (project :permission_handler_android) (Thread[#648,included builds,5,main]) started.
+[        ] work action resolve out (project :permission_handler_android) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:writeReleaseLintModelMetadata (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:writeReleaseLintModelMetadata (Thread[#650,Execution worker Thread 2,5,main]) started.
+[  +69 ms] > Task :permission_handler_android:writeReleaseLintModelMetadata UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:writeReleaseLintModelMetadata' because:
+[        ]   Build cache is disabled
+[   +6 ms]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:writeReleaseLintModelMetadata' as it is up-to-date.
+[        ] work action resolve lint-model-metadata.properties (project :permission_handler_android) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] work action resolve lint-model-metadata.properties (project :permission_handler_android) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :app:lintVitalAnalyzeRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:lintVitalAnalyzeRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[ +143 ms] Resolve mutations for :arcore_flutter_plugin:generateReleaseLintVitalModel (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:generateReleaseLintVitalModel (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:generateReleaseLintVitalModel UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:generateReleaseLintVitalModel' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:generateReleaseLintVitalModel' as it is up-to-date.
+[        ] work action resolve generateReleaseLintVitalModel (project :arcore_flutter_plugin) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] work action resolve generateReleaseLintVitalModel (project :arcore_flutter_plugin) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :permission_handler_android:generateReleaseLintVitalModel (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:generateReleaseLintVitalModel (Thread[#650,Execution worker Thread 2,5,main]) started.
+[  +41 ms] > Task :permission_handler_android:generateReleaseLintVitalModel UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:generateReleaseLintVitalModel' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:generateReleaseLintVitalModel' as it is up-to-date.
+[        ] work action resolve generateReleaseLintVitalModel (project :permission_handler_android) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] work action resolve generateReleaseLintVitalModel (project :permission_handler_android) (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] Resolve mutations for :app:collectReleaseDependencies (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :app:collectReleaseDependencies (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :app:collectReleaseDependencies UP-TO-DATE
+[        ] Caching disabled for task ':app:collectReleaseDependencies' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:collectReleaseDependencies' as it is up-to-date.
+[        ] Resolve mutations for :app:sdkReleaseDependencyData (Thread[#648,included builds,5,main]) started.
+[        ] :app:sdkReleaseDependencyData (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:sdkReleaseDependencyData UP-TO-DATE
+[        ] Caching disabled for task ':app:sdkReleaseDependencyData' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:sdkReleaseDependencyData' as it is up-to-date.
+[        ] Resolve mutations for :app:validateSigningRelease (Thread[#648,included builds,5,main]) started.
+[        ] :app:validateSigningRelease (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:validateSigningRelease UP-TO-DATE
+[        ] Caching disabled for task ':app:validateSigningRelease' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:validateSigningRelease' as it is up-to-date.
+[        ] Resolve mutations for :app:writeReleaseAppMetadata (Thread[#648,included builds,5,main]) started.
+[        ] :app:writeReleaseAppMetadata (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:writeReleaseAppMetadata UP-TO-DATE
+[        ] Caching disabled for task ':app:writeReleaseAppMetadata' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[   +6 ms] Skipping task ':app:writeReleaseAppMetadata' as it is up-to-date.
+[        ] Resolve mutations for :app:writeReleaseSigningConfigVersions (Thread[#648,included builds,5,main]) started.
+[        ] :app:writeReleaseSigningConfigVersions (Thread[#648,included builds,5,main]) started.
+[ +115 ms] > Task :app:writeReleaseSigningConfigVersions UP-TO-DATE
+[        ] Caching disabled for task ':app:writeReleaseSigningConfigVersions' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:writeReleaseSigningConfigVersions' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:bundleReleaseAar (Thread[#648,included builds,5,main]) started.
+[        ] :arcore_flutter_plugin:bundleReleaseAar (Thread[#648,included builds,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:bundleReleaseAar UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:bundleReleaseAar' because:
+[   +1 ms]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:bundleReleaseAar' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:mapReleaseSourceSetPaths (Thread[#648,included builds,5,main]) started.
+[        ] :arcore_flutter_plugin:mapReleaseSourceSetPaths (Thread[#648,included builds,5,main]) started.
+[ +469 ms] > Task :arcore_flutter_plugin:mapReleaseSourceSetPaths UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:mapReleaseSourceSetPaths' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':arcore_flutter_plugin:mapReleaseSourceSetPaths' as it is up-to-date.
+[        ] Resolve mutations for :arcore_flutter_plugin:mergeReleaseResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:mergeReleaseResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[ +201 ms] > Task :arcore_flutter_plugin:mergeReleaseResources UP-TO-DATE
+[   +4 ms] Caching disabled for task ':arcore_flutter_plugin:mergeReleaseResources' because:
+[   +3 ms]   Build cache is disabled
+[   +2 ms] Skipping task ':arcore_flutter_plugin:mergeReleaseResources' as it is up-to-date.
+[   +7 ms] Resolve mutations for :arcore_flutter_plugin:verifyReleaseResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :arcore_flutter_plugin:verifyReleaseResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[   +4 ms] > Task :arcore_flutter_plugin:verifyReleaseResources UP-TO-DATE
+[        ] Caching disabled for task ':arcore_flutter_plugin:verifyReleaseResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':arcore_flutter_plugin:verifyReleaseResources' as it is up-to-date.
+[  +11 ms] Resolve mutations for :arcore_flutter_plugin:assembleRelease (Thread[#648,included builds,5,main]) started.
+[        ] :arcore_flutter_plugin:assembleRelease (Thread[#648,included builds,5,main]) started.
+[        ] > Task :arcore_flutter_plugin:assembleRelease UP-TO-DATE
+[   +1 ms] Skipping task ':arcore_flutter_plugin:assembleRelease' as it has no actions.
+[        ] Resolve mutations for :permission_handler_android:bundleReleaseAar (Thread[#648,included builds,5,main]) started.
+[        ] :permission_handler_android:bundleReleaseAar (Thread[#648,included builds,5,main]) started.
+[        ] > Task :permission_handler_android:bundleReleaseAar UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:bundleReleaseAar' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:bundleReleaseAar' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:mapReleaseSourceSetPaths (Thread[#648,included builds,5,main]) started.
+[        ] :permission_handler_android:mapReleaseSourceSetPaths (Thread[#648,included builds,5,main]) started.
+[ +160 ms] > Task :permission_handler_android:mapReleaseSourceSetPaths UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:mapReleaseSourceSetPaths' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':permission_handler_android:mapReleaseSourceSetPaths' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:mergeReleaseResources (Thread[#648,included builds,5,main]) started.
+[        ] :permission_handler_android:mergeReleaseResources (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:minifyReleaseWithR8
+[        ] Caching disabled for task ':app:minifyReleaseWithR8' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:minifyReleaseWithR8' is not up-to-date because:
+[        ]   Task has failed previously.
+[        ] R8 is a new Android code shrinker. If you experience any issues, please file a bug at
+[        ] https://issuetracker.google.com, using 'Shrinker (R8)' as component name.
+[        ] Current version is: 8.11.18.
+[        ] file or directory '/app/build/app/intermediates/generated_proguard_file/release/mergeReleaseGeneratedProguardFiles/proguard.txt', not found
+[   +3 ms] > Task :permission_handler_android:mergeReleaseResources UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:mergeReleaseResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:mergeReleaseResources' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:verifyReleaseResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:verifyReleaseResources (Thread[#650,Execution worker Thread 2,5,main]) started.
+[ +107 ms] > Task :permission_handler_android:verifyReleaseResources UP-TO-DATE
+[        ] Caching disabled for task ':permission_handler_android:verifyReleaseResources' because:
+[        ]   Build cache is disabled
+[        ] Skipping task ':permission_handler_android:verifyReleaseResources' as it is up-to-date.
+[        ] Resolve mutations for :permission_handler_android:assembleRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] :permission_handler_android:assembleRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[        ] > Task :permission_handler_android:assembleRelease UP-TO-DATE
+[        ] Skipping task ':permission_handler_android:assembleRelease' as it has no actions.
+[ +593 ms] > Task :app:lintVitalAnalyzeRelease
+[        ] Caching disabled for task ':app:lintVitalAnalyzeRelease' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:lintVitalAnalyzeRelease' is not up-to-date because:
+[        ]   Input property 'variantInputs.proguardFiles' file /app/android/app/proguard-rules.pro has changed.
+[        ] Android Lint: Reusing lint classloader 31.11.1_true
+[+3385 ms] Resolve mutations for :app:lintVitalReportRelease (Thread[#650,Execution worker Thread 2,5,main]) started.
+[  +99 ms] :app:lintVitalReportRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[ +302 ms] > Task :app:lintVitalReportRelease UP-TO-DATE
+[   +1 ms] Caching disabled for task ':app:lintVitalReportRelease' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Skipping task ':app:lintVitalReportRelease' as it is up-to-date.
+[        ] Resolve mutations for :app:lintVitalRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :app:lintVitalRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[  +96 ms] > Task :app:lintVitalRelease
+[        ] Caching disabled for task ':app:lintVitalRelease' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:lintVitalRelease' is not up-to-date because:
+[        ]   Task.upToDateWhen is false.
+[+10197 ms] > Task :app:minifyReleaseWithR8
+[        ] INFO: /app/build/app/intermediates/aapt_proguard_file/release/processReleaseResources/aapt_rules.txt:1:1-50: R8: Proguard configuration rule does not match anything: `-keep class android.app.Application {
+[        ]   <init>();
+[        ] }`
+[        ] INFO: /app/build/app/intermediates/aapt_proguard_file/release/processReleaseResources/aapt_rules.txt:7:1-104: R8: Proguard configuration rule does not match anything: `-keep class android.widget.LinearLayout {
+[        ]   <init>(android.content.Context,android.util.AttributeSet);
+[        ] }`
+[        ] INFO: /app/build/app/intermediates/aapt_proguard_file/release/processReleaseResources/aapt_rules.txt:9:1-97: R8: Proguard configuration rule does not match anything: `-keep class android.widget.Space {
+[        ]   <init>(android.content.Context,android.util.AttributeSet);
+[        ] }`
+[        ] INFO: /app/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.11.1:21:1-22:1: R8: Proguard configuration rule does not match anything: `-keep public class com.google.vending.licensing.ILicensingService {
+[        ]   <init>();
+[        ] }`
+[        ] INFO: /app/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.11.1:22:1-23:1: R8: Proguard configuration rule does not match anything: `-keep public class com.android.vending.licensing.ILicensingService {
+[        ]   <init>();
+[        ] }`
+[        ] INFO: /app/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.11.1:23:1-24:1: R8: Proguard configuration rule does not match anything: `-keep public class com.google.android.vending.licensing.ILicensingService {
+[        ]   <init>();
+[        ] }`
+[        ] INFO: /app/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.11.1:55:1-57:2: R8: Proguard configuration rule does not match anything: `-keepclassmembers class * {
+[        ]   @android.webkit.JavascriptInterface <methods>;
+[        ] }`
+[        ] INFO: /app/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.11.1:68:1-70:1: R8: Proguard configuration rule does not match anything: `-keep class android.support.annotation.Keep {
+[        ]   <init>();
+[        ] }`
+[        ] INFO: /app/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.11.1:70:1-52: R8: Proguard configuration rule does not match anything: `-keep @android.support.annotation.Keep class * {
+[        ]   *;
+[        ] }`
+[        ] INFO: /app/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.11.1:72:1-74:2: R8: Proguard configuration rule does not match anything: `-keepclasseswithmembers class * {
+[        ]   @android.support.annotation.Keep <methods>;
+[        ] }`
+[        ] INFO: /app/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.11.1:76:1-78:2: R8: Proguard configuration rule does not match anything: `-keepclasseswithmembers class * {
+[        ]   @android.support.annotation.Keep <fields>;
+[        ] }`
+[        ] INFO: /app/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.11.1:80:1-82:2: R8: Proguard configuration rule does not match anything: `-keepclasseswithmembers class * {
+[        ]   @android.support.annotation.Keep <init>(...);
+[        ] }`
+[        ] INFO: /app/android/app/proguard-rules.pro:16:1-72: R8: Proguard configuration rule does not match anything: `-keep class com.google.devtools.build.android.desugar.runtime.** {
+[        ]   *;
+[        ] }`
+[        ] INFO: /app/android/app/proguard-rules.pro:25:1-51: R8: Proguard configuration rule does not match anything: `-keep class com.google.android.play.core.** {
+[        ]   *;
+[        ] }`
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/5fb50349239706e8a6594e22cd560397/transformed/fragment-1.7.1/proguard.txt:24:1-29:2: R8: Proguard configuration rule does not match anything: `-if class androidx.fragment.app.FragmentTransition {
+[        ]   private static androidx.fragment.app.FragmentTransitionImpl resolveSupportImpl();
+[        ] }
+[        ] -keep class androidx.transition.FragmentTransitionSupport {
+[        ]   public <init>();
+[        ] }`
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/608dfc9e2582f51b81c1485fd62d55da/transformed/lifecycle-viewmodel-2.7.0/proguard.txt:5:1-7:2: R8: Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation class * extends androidx.lifecycle.AndroidViewModel {
+[        ]   <init>(android.app.Application);
+[        ] }`
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/57a4845aed7b5ba78f501c04d4c94c43/transformed/lifecycle-viewmodel-savedstate-2.7.0/proguard.txt:1:1-3:2: R8: Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation class * extends androidx.lifecycle.ViewModel {
+[        ]   <init>(androidx.lifecycle.SavedStateHandle);
+[        ] }`
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/57a4845aed7b5ba78f501c04d4c94c43/transformed/lifecycle-viewmodel-savedstate-2.7.0/proguard.txt:5:1-7:2: R8: Proguard configuration rule does not match anything: `-keepclassmembers,allowrepackaging,allowobfuscation class * extends androidx.lifecycle.AndroidViewModel {
+[   +1 ms]   <init>(android.app.Application,androidx.lifecycle.SavedStateHandle);
+[        ] }`
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/81bfdcaf88a095985faf642cd08a6310/transformed/lifecycle-runtime-2.7.0/proguard.txt:10:1-12:2: R8: Proguard configuration rule does not match anything: `-keep class * implements androidx.lifecycle.GeneratedAdapter {
+[   +4 ms]   <init>(...);
+[        ] }`
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/81bfdcaf88a095985faf642cd08a6310/transformed/lifecycle-runtime-2.7.0/proguard.txt:14:1-16:2: R8: Proguard configuration rule does not match anything: `-keepclassmembers class ** {
+[        ]   @androidx.lifecycle.OnLifecycleEvent *;
+[        ] }`
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/cfe1a754f4e36edf439d39bdf3bc6d0e/transformed/rules/lib/META-INF/proguard/androidx-annotations.pro:4:1-6:2: R8: Proguard configuration rule does not match anything: `-keepclasseswithmembers class * {
+[        ]   @androidx.annotation.Keep <methods>;
+[        ] }`
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/cfe1a754f4e36edf439d39bdf3bc6d0e/transformed/rules/lib/META-INF/proguard/androidx-annotations.pro:8:1-10:2: R8: Proguard configuration rule does not match anything: `-keepclasseswithmembers class * {
+[        ]   @androidx.annotation.Keep <fields>;
+[        ] }`
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/cfe1a754f4e36edf439d39bdf3bc6d0e/transformed/rules/lib/META-INF/proguard/androidx-annotations.pro:12:1-14:2: R8: Proguard configuration rule does not match anything: `-keepclasseswithmembers class * {
+[        ]   @androidx.annotation.Keep <init>(...);
+[        ] }`
+[ +385 ms] INFO: /home/jules/.gradle/caches/8.14/transforms/c2194d5b371b614c4dad59b243e97708/transformed/activity-1.8.1-runtime.jar: R8: Invalid signature '(Landroidx/activity/contextaware/ContextAware;Landroidx/activity/contextaware/ContextAwareKt$withContextAvailable$2$listener$1<TR;>;)V' for method void androidx.activity.contextaware.ContextAwareKt$withContextAvailable$2$1.<init>(androidx.activity.contextaware.ContextAware, androidx.activity.contextaware.ContextAwareKt$withContextAvailable$2$listener$1).
+[   +1 ms] Validation error: The applied generic arguments have different count than the expected formals.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/c2194d5b371b614c4dad59b243e97708/transformed/activity-1.8.1-runtime.jar: R8: Invalid signature 'Landroidx/activity/contextaware/ContextAwareKt$withContextAvailable$2$listener$1<TR;>;' for field androidx.activity.contextaware.ContextAwareKt$withContextAvailable$2$listener$1 androidx.activity.contextaware.ContextAwareKt$withContextAvailable$2$1.$listener.
+[        ] Validation error: The applied generic arguments have different count than the expected formals.
+[        ] Signature is ignored and will not be present in the output.
+[ +100 ms] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature 'Lkotlin/jvm/internal/Lambda;Lkotlin/jvm/functions/Function1<TX;Lkotlin/Unit;>;' for class androidx.lifecycle.Transformations$map$2.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature '(Landroidx/lifecycle/MediatorLiveData<TY;>;Landroidx/arch/core/util/Function<TX;TY;>;)V' for method void androidx.lifecycle.Transformations$map$2.<init>(androidx.lifecycle.MediatorLiveData, androidx.arch.core.util.Function).
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature '(TX;)V' for method void androidx.lifecycle.Transformations$map$2.invoke(java.lang.Object).
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature 'Landroidx/lifecycle/MediatorLiveData<TY;>;' for field androidx.lifecycle.MediatorLiveData androidx.lifecycle.Transformations$map$2.$result.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature 'Landroidx/arch/core/util/Function<TX;TY;>;' for field androidx.arch.core.util.Function androidx.lifecycle.Transformations$map$2.$mapFunction.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/37d49a16f2f122e967ce6aa2aa4622f5/transformed/core-ktx-1.13.1-runtime.jar: R8: Invalid signature 'Lkotlin/jvm/internal/Lambda;Lkotlin/jvm/functions/Function1<TK;TV;>;' for class androidx.core.util.LruCacheKt$lruCache$2.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/37d49a16f2f122e967ce6aa2aa4622f5/transformed/core-ktx-1.13.1-runtime.jar: R8: Invalid signature '(TK;)TV;' for method java.lang.Object androidx.core.util.LruCacheKt$lruCache$2.invoke(java.lang.Object).
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[   +9 ms] INFO: /home/jules/.gradle/caches/8.14/transforms/37d49a16f2f122e967ce6aa2aa4622f5/transformed/core-ktx-1.13.1-runtime.jar: R8: Invalid signature 'Lkotlin/jvm/internal/Lambda;Lkotlin/jvm/functions/Function4<Ljava/lang/Boolean;TK;TV;TV;Lkotlin/Unit;>;' for class androidx.core.util.LruCacheKt$lruCache$3.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/37d49a16f2f122e967ce6aa2aa4622f5/transformed/core-ktx-1.13.1-runtime.jar: R8: Invalid signature '(ZTK;TV;TV;)V' for method void androidx.core.util.LruCacheKt$lruCache$3.invoke(boolean, java.lang.Object, java.lang.Object, java.lang.Object).
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/37d49a16f2f122e967ce6aa2aa4622f5/transformed/core-ktx-1.13.1-runtime.jar: R8: Invalid signature 'Lkotlin/jvm/internal/Lambda;Lkotlin/jvm/functions/Function2<TK;TV;Ljava/lang/Integer;>;' for class androidx.core.util.LruCacheKt$lruCache$1.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/37d49a16f2f122e967ce6aa2aa4622f5/transformed/core-ktx-1.13.1-runtime.jar: R8: Invalid signature '(TK;TV;)Ljava/lang/Integer;' for method java.lang.Integer androidx.core.util.LruCacheKt$lruCache$1.invoke(java.lang.Object, java.lang.Object).
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature 'Lkotlin/jvm/internal/Lambda;Lkotlin/jvm/functions/Function1<TY;Lkotlin/Unit;>;' for class androidx.lifecycle.Transformations$switchMap$2$onChanged$1.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature '(Landroidx/lifecycle/MediatorLiveData<TY;>;)V' for method void androidx.lifecycle.Transformations$switchMap$2$onChanged$1.<init>(androidx.lifecycle.MediatorLiveData).
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature '(TY;)V' for method void androidx.lifecycle.Transformations$switchMap$2$onChanged$1.invoke(java.lang.Object).
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature 'Landroidx/lifecycle/MediatorLiveData<TY;>;' for field androidx.lifecycle.MediatorLiveData androidx.lifecycle.Transformations$switchMap$2$onChanged$1.$result.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature 'Ljava/lang/Object;Landroidx/lifecycle/Observer<TX;>;' for class androidx.lifecycle.Transformations$switchMap$2.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature '(Landroidx/arch/core/util/Function<TX;Landroidx/lifecycle/LiveData<TY;>;>;Landroidx/lifecycle/MediatorLiveData<TY;>;)V' for method void androidx.lifecycle.Transformations$switchMap$2.<init>(androidx.arch.core.util.Function, androidx.lifecycle.MediatorLiveData).
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature '()Landroidx/lifecycle/LiveData<TY;>;' for method androidx.lifecycle.LiveData androidx.lifecycle.Transformations$switchMap$2.getLiveData().
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature '(Landroidx/lifecycle/LiveData<TY;>;)V' for method void androidx.lifecycle.Transformations$switchMap$2.setLiveData(androidx.lifecycle.LiveData).
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature '(TX;)V' for method void androidx.lifecycle.Transformations$switchMap$2.onChanged(java.lang.Object).
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature 'Landroidx/lifecycle/LiveData<TY;>;' for field androidx.lifecycle.LiveData androidx.lifecycle.Transformations$switchMap$2.liveData.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature 'Landroidx/arch/core/util/Function<TX;Landroidx/lifecycle/LiveData<TY;>;>;' for field androidx.arch.core.util.Function androidx.lifecycle.Transformations$switchMap$2.$switchMapFunction.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/623e431d83d2fa1df0d14b7ff6d8b79b/transformed/lifecycle-livedata-2.7.0-runtime.jar: R8: Invalid signature 'Landroidx/lifecycle/MediatorLiveData<TY;>;' for field androidx.lifecycle.MediatorLiveData androidx.lifecycle.Transformations$switchMap$2.$result.
+[        ] Validation error: A type variable is not in scope.
+[        ] Signature is ignored and will not be present in the output.
+[+76006 ms] INFO: R8: InnerClasses attribute has entries missing a corresponding EnclosingMethod attribute. Such InnerClasses attribute entries are ignored.
+[        ] INFO: /home/jules/.gradle/caches/8.14/transforms/082fa1a2a49bc98815b46bd292b43abd/transformed/assets-1.17.1-runtime.jar: R8: Classes with missing EnclosingMethod: com.google.ar.sceneform.assets.RenderableSource$1
+[  +74 ms] Resolve mutations for :app:compileReleaseArtProfile (Thread[#649,Execution worker,5,main]) started.
+[        ] :app:compileReleaseArtProfile (Thread[#649,Execution worker,5,main]) started.
+[ +105 ms] Resolve mutations for :app:convertShrunkResourcesToBinaryRelease (Thread[#651,Execution worker Thread 3,5,main]) started.
+[        ] :app:convertShrunkResourcesToBinaryRelease (Thread[#648,included builds,5,main]) started.
+[ +504 ms] > Task :app:convertShrunkResourcesToBinaryRelease
+[        ] Custom actions are attached to task ':app:convertShrunkResourcesToBinaryRelease'.
+[        ] Caching disabled for task ':app:convertShrunkResourcesToBinaryRelease' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:convertShrunkResourcesToBinaryRelease' is not up-to-date because:
+[        ]   No history is available.
+[        ] AAPT2 aapt2-8.11.1-12782657-linux Daemon #0: starting
+[        ] Resolve mutations for :app:optimizeReleaseResources (Thread[#648,included builds,5,main]) started.
+[        ] :app:optimizeReleaseResources (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:compileReleaseArtProfile
+[        ] Caching disabled for task ':app:compileReleaseArtProfile' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:compileReleaseArtProfile' is not up-to-date because:
+[        ]   No history is available.
+[ +185 ms] > Task :app:optimizeReleaseResources
+[        ] Custom actions are attached to task ':app:optimizeReleaseResources'.
+[        ] Caching disabled for task ':app:optimizeReleaseResources' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:optimizeReleaseResources' is not up-to-date because:
+[        ]   No history is available.
+[        ] Resolve mutations for :app:packageRelease (Thread[#648,included builds,5,main]) started.
+[        ] :app:packageRelease (Thread[#648,included builds,5,main]) started.
+[+1699 ms] > Task :app:packageRelease
+[        ] Custom actions are attached to task ':app:packageRelease'.
+[        ] Caching disabled for task ':app:packageRelease' because:
+[        ]   Build cache is disabled
+[        ]   Caching has been disabled for the task
+[        ] Task ':app:packageRelease' is not up-to-date because:
+[        ]   No history is available.
+[        ] The input changes require a full rebuild for incremental task ':app:packageRelease'.
+[        ] Resolve mutations for :app:createReleaseApkListingFileRedirect (Thread[#648,included builds,5,main]) started.
+[        ] :app:createReleaseApkListingFileRedirect (Thread[#648,included builds,5,main]) started.
+[        ] > Task :app:createReleaseApkListingFileRedirect
+[   +1 ms] Caching disabled for task ':app:createReleaseApkListingFileRedirect' because:
+[   +1 ms]   Build cache is disabled
+[   +1 ms]   Caching has been disabled for the task
+[        ] Task ':app:createReleaseApkListingFileRedirect' is not up-to-date because:
+[        ]   No history is available.
+[        ] Resolve mutations for :app:assembleRelease (Thread[#648,included builds,5,main]) started.
+[        ] :app:assembleRelease (Thread[#648,included builds,5,main]) started.
+[  +91 ms] > Task :app:assembleRelease
+[        ] Caching disabled for task ':app:assembleRelease' because:
+[        ]   Build cache is disabled
+[        ] Task ':app:assembleRelease' is not up-to-date because:
+[        ]   Task has not declared any outputs despite executing actions.
+[  +99 ms] AAPT2 aapt2-8.11.1-12782657-linux Daemon #0: shutdown
+[        ] Android Lint: Disposing Uast application environment in lint classloader [31.11.1_true]
+[        ] Build c943f282-b0b8-4193-b92e-90f120ad840c is closed
+[        ] [Incubating] Problems report is available at: file:///app/build/reports/problems/problems-report.html
+[        ] Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+[        ] You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+[        ] For more on this, please refer to https://docs.gradle.org/8.14/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+[        ] BUILD SUCCESSFUL in 1m 47s
+[        ] 141 actionable tasks: 20 executed, 121 up-to-date
+[        ] Some of the file system contents retained in the virtual file system are on file systems that Gradle doesn't support watching. The relevant state was discarded to ensure changes to these locations are properly detected. You can override this by explicitly enabling file system watching.
+[ +444 ms] Running Gradle task 'assembleRelease'... (completed in 107.7s)
+[  +56 ms] Calculate SHA1: LocalDirectory: '/app/build/app/outputs/flutter-apk'/app-release.apk
+[+1408 ms] ✓ Built build/app/outputs/flutter-apk/app-release.apk (69.8MB)
+[   +8 ms] "flutter apk" took 110,408ms.
+[  +93 ms] Running 1 shutdown hook
+[   +6 ms] Shutdown hooks complete
+[  +74 ms] exiting with code 0
